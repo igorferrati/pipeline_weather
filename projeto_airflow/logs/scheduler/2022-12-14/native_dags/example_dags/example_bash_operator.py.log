@@ -1,0 +1,161 @@
+[2022-12-13 21:27:27,215] {processor.py:153} INFO - Started process (PID=29917) to work on /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 21:27:27,239] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-12-13 21:27:27,241] {logging_mixin.py:115} INFO - [2022-12-13 21:27:27,240] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 21:27:27,343] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 21:27:27,519] {logging_mixin.py:115} INFO - [2022-12-13 21:27:27,518] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 21:27:27,741] {logging_mixin.py:115} INFO - [2022-12-13 21:27:27,740] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 21:27:27,821] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.613 seconds
+[2022-12-13 21:28:38,019] {processor.py:153} INFO - Started process (PID=30122) to work on /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 21:28:38,032] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-12-13 21:28:38,033] {logging_mixin.py:115} INFO - [2022-12-13 21:28:38,033] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 21:28:38,101] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 21:28:38,215] {logging_mixin.py:115} INFO - [2022-12-13 21:28:38,215] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 21:28:38,377] {logging_mixin.py:115} INFO - [2022-12-13 21:28:38,376] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 21:28:38,447] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.447 seconds
+[2022-12-13 21:29:40,233] {processor.py:153} INFO - Started process (PID=30314) to work on /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 21:29:40,236] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-12-13 21:29:40,239] {logging_mixin.py:115} INFO - [2022-12-13 21:29:40,238] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 21:29:40,316] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 21:29:40,376] {logging_mixin.py:115} INFO - [2022-12-13 21:29:40,376] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 21:29:40,485] {logging_mixin.py:115} INFO - [2022-12-13 21:29:40,485] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 21:29:40,584] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.403 seconds
+[2022-12-13 21:31:14,662] {processor.py:153} INFO - Started process (PID=30505) to work on /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 21:31:14,669] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-12-13 21:31:14,673] {logging_mixin.py:115} INFO - [2022-12-13 21:31:14,673] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 21:31:14,833] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 21:31:15,053] {logging_mixin.py:115} INFO - [2022-12-13 21:31:15,051] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 21:31:15,775] {logging_mixin.py:115} INFO - [2022-12-13 21:31:15,774] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 21:31:15,974] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 1.360 seconds
+[2022-12-13 21:33:03,854] {processor.py:153} INFO - Started process (PID=30728) to work on /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 21:33:03,902] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-12-13 21:33:03,906] {logging_mixin.py:115} INFO - [2022-12-13 21:33:03,905] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 21:33:04,200] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 21:33:04,745] {logging_mixin.py:115} INFO - [2022-12-13 21:33:04,745] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 21:33:05,422] {logging_mixin.py:115} INFO - [2022-12-13 21:33:05,421] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 21:33:05,860] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 2.017 seconds
+[2022-12-13 21:34:55,724] {processor.py:153} INFO - Started process (PID=30942) to work on /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 21:34:55,727] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-12-13 21:34:55,729] {logging_mixin.py:115} INFO - [2022-12-13 21:34:55,728] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 21:34:55,850] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 21:34:55,994] {logging_mixin.py:115} INFO - [2022-12-13 21:34:55,993] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 21:34:56,224] {logging_mixin.py:115} INFO - [2022-12-13 21:34:56,223] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 21:34:56,521] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.977 seconds
+[2022-12-13 21:37:38,156] {processor.py:153} INFO - Started process (PID=31373) to work on /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 21:37:38,158] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-12-13 21:37:38,160] {logging_mixin.py:115} INFO - [2022-12-13 21:37:38,159] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 21:37:38,272] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 21:37:38,462] {logging_mixin.py:115} INFO - [2022-12-13 21:37:38,461] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 21:37:38,550] {logging_mixin.py:115} INFO - [2022-12-13 21:37:38,549] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 21:37:38,638] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.522 seconds
+[2022-12-13 21:38:49,778] {processor.py:153} INFO - Started process (PID=31576) to work on /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 21:38:49,792] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-12-13 21:38:49,793] {logging_mixin.py:115} INFO - [2022-12-13 21:38:49,793] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 21:38:49,905] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 21:38:50,053] {logging_mixin.py:115} INFO - [2022-12-13 21:38:50,053] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 21:38:50,165] {logging_mixin.py:115} INFO - [2022-12-13 21:38:50,165] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 21:38:50,278] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.529 seconds
+[2022-12-13 23:01:23,303] {processor.py:153} INFO - Started process (PID=35381) to work on /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:01:23,312] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-12-13 23:01:23,314] {logging_mixin.py:115} INFO - [2022-12-13 23:01:23,313] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:01:23,445] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:01:23,578] {logging_mixin.py:115} INFO - [2022-12-13 23:01:23,578] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 23:01:23,754] {logging_mixin.py:115} INFO - [2022-12-13 23:01:23,753] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 23:01:23,970] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.685 seconds
+[2022-12-13 23:03:28,501] {processor.py:153} INFO - Started process (PID=35792) to work on /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:03:28,539] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-12-13 23:03:28,585] {logging_mixin.py:115} INFO - [2022-12-13 23:03:28,584] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:03:28,751] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:03:29,622] {logging_mixin.py:115} INFO - [2022-12-13 23:03:29,610] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 23:03:30,010] {logging_mixin.py:115} INFO - [2022-12-13 23:03:30,009] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 23:03:30,137] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 1.690 seconds
+[2022-12-13 23:05:28,841] {processor.py:153} INFO - Started process (PID=36071) to work on /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:05:28,881] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-12-13 23:05:28,882] {logging_mixin.py:115} INFO - [2022-12-13 23:05:28,882] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:05:29,015] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:05:29,144] {logging_mixin.py:115} INFO - [2022-12-13 23:05:29,143] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 23:05:29,393] {logging_mixin.py:115} INFO - [2022-12-13 23:05:29,387] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 23:05:29,481] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.689 seconds
+[2022-12-13 23:07:34,222] {processor.py:153} INFO - Started process (PID=36287) to work on /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:07:34,256] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-12-13 23:07:34,257] {logging_mixin.py:115} INFO - [2022-12-13 23:07:34,257] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:07:34,420] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:07:34,650] {logging_mixin.py:115} INFO - [2022-12-13 23:07:34,650] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 23:07:34,884] {logging_mixin.py:115} INFO - [2022-12-13 23:07:34,884] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 23:07:35,099] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.908 seconds
+[2022-12-13 23:11:15,048] {processor.py:153} INFO - Started process (PID=36609) to work on /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:11:15,063] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-12-13 23:11:15,065] {logging_mixin.py:115} INFO - [2022-12-13 23:11:15,065] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:11:15,283] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:11:15,482] {logging_mixin.py:115} INFO - [2022-12-13 23:11:15,482] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 23:11:15,853] {logging_mixin.py:115} INFO - [2022-12-13 23:11:15,849] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 23:11:16,201] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 1.203 seconds
+[2022-12-13 23:13:44,315] {processor.py:153} INFO - Started process (PID=37100) to work on /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:13:44,318] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-12-13 23:13:44,319] {logging_mixin.py:115} INFO - [2022-12-13 23:13:44,319] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:13:44,425] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:13:44,510] {logging_mixin.py:115} INFO - [2022-12-13 23:13:44,510] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 23:13:44,640] {logging_mixin.py:115} INFO - [2022-12-13 23:13:44,640] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 23:13:44,802] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.507 seconds
+[2022-12-13 23:15:15,322] {processor.py:153} INFO - Started process (PID=37315) to work on /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:15:15,337] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-12-13 23:15:15,347] {logging_mixin.py:115} INFO - [2022-12-13 23:15:15,347] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:15:15,458] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:15:15,616] {logging_mixin.py:115} INFO - [2022-12-13 23:15:15,616] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 23:15:15,779] {logging_mixin.py:115} INFO - [2022-12-13 23:15:15,779] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 23:15:15,917] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.604 seconds
+[2022-12-13 23:17:58,620] {processor.py:153} INFO - Started process (PID=37552) to work on /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:17:58,628] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-12-13 23:17:58,629] {logging_mixin.py:115} INFO - [2022-12-13 23:17:58,629] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:17:58,737] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:17:58,868] {logging_mixin.py:115} INFO - [2022-12-13 23:17:58,868] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 23:17:59,031] {logging_mixin.py:115} INFO - [2022-12-13 23:17:59,023] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 23:17:59,109] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.514 seconds
+[2022-12-13 23:19:26,071] {processor.py:153} INFO - Started process (PID=37772) to work on /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:19:26,092] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-12-13 23:19:26,102] {logging_mixin.py:115} INFO - [2022-12-13 23:19:26,102] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:19:26,192] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:19:26,327] {logging_mixin.py:115} INFO - [2022-12-13 23:19:26,327] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 23:19:26,512] {logging_mixin.py:115} INFO - [2022-12-13 23:19:26,511] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 23:19:26,600] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.555 seconds
+[2022-12-13 23:20:42,416] {processor.py:153} INFO - Started process (PID=37963) to work on /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:20:42,420] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-12-13 23:20:42,421] {logging_mixin.py:115} INFO - [2022-12-13 23:20:42,421] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:20:42,552] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:20:42,692] {logging_mixin.py:115} INFO - [2022-12-13 23:20:42,691] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 23:20:42,866] {logging_mixin.py:115} INFO - [2022-12-13 23:20:42,866] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 23:20:42,979] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.579 seconds
+[2022-12-13 23:21:56,765] {processor.py:153} INFO - Started process (PID=38153) to work on /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:21:56,776] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-12-13 23:21:56,777] {logging_mixin.py:115} INFO - [2022-12-13 23:21:56,777] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:21:56,945] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:21:57,069] {logging_mixin.py:115} INFO - [2022-12-13 23:21:57,069] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 23:21:57,274] {logging_mixin.py:115} INFO - [2022-12-13 23:21:57,273] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 23:21:57,355] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.630 seconds
+[2022-12-13 23:23:15,746] {processor.py:153} INFO - Started process (PID=38418) to work on /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:23:15,761] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-12-13 23:23:15,764] {logging_mixin.py:115} INFO - [2022-12-13 23:23:15,764] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:23:15,874] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:23:16,017] {logging_mixin.py:115} INFO - [2022-12-13 23:23:16,017] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 23:23:16,259] {logging_mixin.py:115} INFO - [2022-12-13 23:23:16,259] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 23:23:16,491] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.760 seconds
+[2022-12-13 23:24:34,426] {processor.py:153} INFO - Started process (PID=38615) to work on /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:24:34,440] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-12-13 23:24:34,442] {logging_mixin.py:115} INFO - [2022-12-13 23:24:34,441] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:24:34,580] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:24:34,713] {logging_mixin.py:115} INFO - [2022-12-13 23:24:34,713] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 23:24:34,846] {logging_mixin.py:115} INFO - [2022-12-13 23:24:34,846] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 23:24:34,920] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.521 seconds
+[2022-12-13 23:25:48,637] {processor.py:153} INFO - Started process (PID=38804) to work on /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:25:48,644] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-12-13 23:25:48,655] {logging_mixin.py:115} INFO - [2022-12-13 23:25:48,647] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:25:48,755] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:25:48,926] {logging_mixin.py:115} INFO - [2022-12-13 23:25:48,925] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 23:25:49,084] {logging_mixin.py:115} INFO - [2022-12-13 23:25:49,084] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 23:25:49,158] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.577 seconds
+[2022-12-13 23:26:59,900] {processor.py:153} INFO - Started process (PID=38988) to work on /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:26:59,907] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-12-13 23:26:59,909] {logging_mixin.py:115} INFO - [2022-12-13 23:26:59,908] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:26:59,990] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-12-13 23:27:00,147] {logging_mixin.py:115} INFO - [2022-12-13 23:27:00,146] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 23:27:00,307] {logging_mixin.py:115} INFO - [2022-12-13 23:27:00,297] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 23:27:00,394] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.527 seconds

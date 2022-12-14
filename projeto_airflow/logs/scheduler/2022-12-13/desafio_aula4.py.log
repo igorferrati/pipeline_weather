@@ -1,0 +1,1343 @@
+[2022-12-13 00:07:58,975] {processor.py:153} INFO - Started process (PID=16003) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:07:58,985] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:07:58,986] {logging_mixin.py:115} INFO - [2022-12-13 00:07:58,986] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:07:59,004] {logging_mixin.py:115} INFO - [2022-12-13 00:07:58,992] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:07:59,005] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:07:59,093] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.133 seconds
+[2022-12-13 00:09:14,955] {processor.py:153} INFO - Started process (PID=16184) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:09:14,963] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:09:14,964] {logging_mixin.py:115} INFO - [2022-12-13 00:09:14,964] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:09:14,971] {logging_mixin.py:115} INFO - [2022-12-13 00:09:14,968] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:09:14,971] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:09:15,034] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.085 seconds
+[2022-12-13 00:09:52,472] {processor.py:153} INFO - Started process (PID=16312) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:09:52,476] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:09:52,477] {logging_mixin.py:115} INFO - [2022-12-13 00:09:52,477] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:09:52,482] {logging_mixin.py:115} INFO - [2022-12-13 00:09:52,480] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:09:52,482] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:09:52,535] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.072 seconds
+[2022-12-13 00:10:28,392] {processor.py:153} INFO - Started process (PID=16418) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:10:28,396] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:10:28,397] {logging_mixin.py:115} INFO - [2022-12-13 00:10:28,396] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:10:28,401] {logging_mixin.py:115} INFO - [2022-12-13 00:10:28,400] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:10:28,402] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:10:28,483] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.105 seconds
+[2022-12-13 00:11:33,358] {processor.py:153} INFO - Started process (PID=16793) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:11:33,377] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:11:33,378] {logging_mixin.py:115} INFO - [2022-12-13 00:11:33,378] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:11:33,405] {logging_mixin.py:115} INFO - [2022-12-13 00:11:33,394] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:11:33,405] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:11:33,646] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.295 seconds
+[2022-12-13 00:12:08,442] {processor.py:153} INFO - Started process (PID=16887) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:12:08,454] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:12:08,455] {logging_mixin.py:115} INFO - [2022-12-13 00:12:08,455] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:12:08,466] {logging_mixin.py:115} INFO - [2022-12-13 00:12:08,463] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:12:08,467] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:12:08,560] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.137 seconds
+[2022-12-13 00:12:42,956] {processor.py:153} INFO - Started process (PID=16958) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:12:42,959] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:12:42,964] {logging_mixin.py:115} INFO - [2022-12-13 00:12:42,963] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:12:43,004] {logging_mixin.py:115} INFO - [2022-12-13 00:12:42,990] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:12:43,014] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:12:43,286] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.352 seconds
+[2022-12-13 00:13:15,542] {processor.py:153} INFO - Started process (PID=17047) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:13:15,551] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:13:15,555] {logging_mixin.py:115} INFO - [2022-12-13 00:13:15,555] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:13:15,580] {logging_mixin.py:115} INFO - [2022-12-13 00:13:15,576] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:13:15,581] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:13:15,669] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.155 seconds
+[2022-12-13 00:13:47,530] {processor.py:153} INFO - Started process (PID=17120) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:13:47,534] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:13:47,541] {logging_mixin.py:115} INFO - [2022-12-13 00:13:47,541] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:13:47,578] {logging_mixin.py:115} INFO - [2022-12-13 00:13:47,573] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:13:47,580] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:13:47,774] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.269 seconds
+[2022-12-13 00:14:43,496] {processor.py:153} INFO - Started process (PID=17304) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:14:43,501] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:14:43,505] {logging_mixin.py:115} INFO - [2022-12-13 00:14:43,504] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:14:43,520] {logging_mixin.py:115} INFO - [2022-12-13 00:14:43,507] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:14:43,520] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:14:43,642] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.175 seconds
+[2022-12-13 00:16:18,541] {processor.py:153} INFO - Started process (PID=17584) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:16:18,544] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:16:18,553] {logging_mixin.py:115} INFO - [2022-12-13 00:16:18,552] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:16:18,560] {logging_mixin.py:115} INFO - [2022-12-13 00:16:18,558] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:16:18,561] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:16:18,601] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.071 seconds
+[2022-12-13 00:16:57,370] {processor.py:153} INFO - Started process (PID=17718) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:16:57,375] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:16:57,377] {logging_mixin.py:115} INFO - [2022-12-13 00:16:57,377] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:16:57,382] {logging_mixin.py:115} INFO - [2022-12-13 00:16:57,380] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:16:57,382] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:16:57,421] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.058 seconds
+[2022-12-13 00:17:28,476] {processor.py:153} INFO - Started process (PID=17823) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:17:28,481] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:17:28,482] {logging_mixin.py:115} INFO - [2022-12-13 00:17:28,482] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:17:28,486] {logging_mixin.py:115} INFO - [2022-12-13 00:17:28,485] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:17:28,487] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:17:28,525] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.055 seconds
+[2022-12-13 00:18:00,735] {processor.py:153} INFO - Started process (PID=17943) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:18:00,749] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:18:00,750] {logging_mixin.py:115} INFO - [2022-12-13 00:18:00,750] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:18:00,755] {logging_mixin.py:115} INFO - [2022-12-13 00:18:00,754] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:18:00,760] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:18:00,813] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.083 seconds
+[2022-12-13 00:18:34,397] {processor.py:153} INFO - Started process (PID=18056) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:18:34,408] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:18:34,409] {logging_mixin.py:115} INFO - [2022-12-13 00:18:34,409] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:18:34,414] {logging_mixin.py:115} INFO - [2022-12-13 00:18:34,413] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:18:34,415] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:18:34,455] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.071 seconds
+[2022-12-13 00:19:07,885] {processor.py:153} INFO - Started process (PID=18169) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:19:07,886] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:19:07,887] {logging_mixin.py:115} INFO - [2022-12-13 00:19:07,887] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:19:07,892] {logging_mixin.py:115} INFO - [2022-12-13 00:19:07,890] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:19:07,892] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:19:07,951] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.073 seconds
+[2022-12-13 00:19:51,404] {processor.py:153} INFO - Started process (PID=18322) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:19:51,413] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:19:51,415] {logging_mixin.py:115} INFO - [2022-12-13 00:19:51,414] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:19:51,429] {logging_mixin.py:115} INFO - [2022-12-13 00:19:51,427] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:19:51,429] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:19:51,488] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.091 seconds
+[2022-12-13 00:20:28,838] {processor.py:153} INFO - Started process (PID=18426) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:20:28,839] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:20:28,840] {logging_mixin.py:115} INFO - [2022-12-13 00:20:28,840] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:20:28,852] {logging_mixin.py:115} INFO - [2022-12-13 00:20:28,843] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:20:28,853] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:20:28,921] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.106 seconds
+[2022-12-13 00:21:10,713] {processor.py:153} INFO - Started process (PID=18565) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:21:10,753] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:21:10,755] {logging_mixin.py:115} INFO - [2022-12-13 00:21:10,754] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:21:10,759] {logging_mixin.py:115} INFO - [2022-12-13 00:21:10,758] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:21:10,760] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:21:10,867] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.160 seconds
+[2022-12-13 00:21:43,097] {processor.py:153} INFO - Started process (PID=18685) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:21:43,100] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:21:43,101] {logging_mixin.py:115} INFO - [2022-12-13 00:21:43,101] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:21:43,114] {logging_mixin.py:115} INFO - [2022-12-13 00:21:43,112] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:21:43,114] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:21:43,166] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.075 seconds
+[2022-12-13 00:22:26,422] {processor.py:153} INFO - Started process (PID=18833) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:22:26,427] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:22:26,436] {logging_mixin.py:115} INFO - [2022-12-13 00:22:26,436] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:22:26,441] {logging_mixin.py:115} INFO - [2022-12-13 00:22:26,439] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:22:26,441] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:22:26,483] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.076 seconds
+[2022-12-13 00:23:10,990] {processor.py:153} INFO - Started process (PID=18991) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:23:11,004] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:23:11,005] {logging_mixin.py:115} INFO - [2022-12-13 00:23:11,005] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:23:11,012] {logging_mixin.py:115} INFO - [2022-12-13 00:23:11,010] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:23:11,014] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:23:11,057] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.073 seconds
+[2022-12-13 00:23:54,999] {processor.py:153} INFO - Started process (PID=19145) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:23:55,002] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:23:55,004] {logging_mixin.py:115} INFO - [2022-12-13 00:23:55,003] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:23:55,008] {logging_mixin.py:115} INFO - [2022-12-13 00:23:55,006] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:23:55,008] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:23:55,049] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.064 seconds
+[2022-12-13 00:24:27,877] {processor.py:153} INFO - Started process (PID=19258) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:24:27,882] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:24:27,883] {logging_mixin.py:115} INFO - [2022-12-13 00:24:27,883] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:24:27,887] {logging_mixin.py:115} INFO - [2022-12-13 00:24:27,886] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:24:27,888] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:24:27,950] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.079 seconds
+[2022-12-13 00:25:11,594] {processor.py:153} INFO - Started process (PID=19408) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:25:11,599] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:25:11,600] {logging_mixin.py:115} INFO - [2022-12-13 00:25:11,600] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:25:11,606] {logging_mixin.py:115} INFO - [2022-12-13 00:25:11,605] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:25:11,607] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:25:11,678] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.090 seconds
+[2022-12-13 00:25:41,773] {processor.py:153} INFO - Started process (PID=19512) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:25:41,778] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:25:41,779] {logging_mixin.py:115} INFO - [2022-12-13 00:25:41,779] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:25:41,783] {logging_mixin.py:115} INFO - [2022-12-13 00:25:41,782] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:25:41,792] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:25:41,883] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.123 seconds
+[2022-12-13 00:26:23,178] {processor.py:153} INFO - Started process (PID=19658) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:26:23,183] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:26:23,184] {logging_mixin.py:115} INFO - [2022-12-13 00:26:23,184] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:26:23,188] {logging_mixin.py:115} INFO - [2022-12-13 00:26:23,186] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:26:23,196] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:26:23,254] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.089 seconds
+[2022-12-13 00:27:02,532] {processor.py:153} INFO - Started process (PID=19804) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:27:02,541] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:27:02,542] {logging_mixin.py:115} INFO - [2022-12-13 00:27:02,542] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:27:02,564] {logging_mixin.py:115} INFO - [2022-12-13 00:27:02,546] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:27:02,565] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:27:02,625] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.110 seconds
+[2022-12-13 00:27:36,113] {processor.py:153} INFO - Started process (PID=19908) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:27:36,117] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:27:36,119] {logging_mixin.py:115} INFO - [2022-12-13 00:27:36,118] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:27:36,123] {logging_mixin.py:115} INFO - [2022-12-13 00:27:36,122] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:27:36,124] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:27:36,178] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.073 seconds
+[2022-12-13 00:28:09,017] {processor.py:153} INFO - Started process (PID=20025) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:28:09,028] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:28:09,029] {logging_mixin.py:115} INFO - [2022-12-13 00:28:09,029] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:28:09,034] {logging_mixin.py:115} INFO - [2022-12-13 00:28:09,032] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:28:09,035] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:28:09,106] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.103 seconds
+[2022-12-13 00:28:54,452] {processor.py:153} INFO - Started process (PID=20185) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:28:54,453] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:28:54,454] {logging_mixin.py:115} INFO - [2022-12-13 00:28:54,454] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:28:54,459] {logging_mixin.py:115} INFO - [2022-12-13 00:28:54,457] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:28:54,459] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:28:54,519] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.073 seconds
+[2022-12-13 00:29:24,725] {processor.py:153} INFO - Started process (PID=20293) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:29:24,727] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:29:24,728] {logging_mixin.py:115} INFO - [2022-12-13 00:29:24,727] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:29:24,732] {logging_mixin.py:115} INFO - [2022-12-13 00:29:24,730] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:29:24,732] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:29:24,769] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.053 seconds
+[2022-12-13 00:29:55,772] {processor.py:153} INFO - Started process (PID=20404) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:29:55,835] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:29:55,838] {logging_mixin.py:115} INFO - [2022-12-13 00:29:55,836] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:29:55,854] {logging_mixin.py:115} INFO - [2022-12-13 00:29:55,852] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:29:55,854] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:29:55,981] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.226 seconds
+[2022-12-13 00:30:32,550] {processor.py:153} INFO - Started process (PID=20543) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:30:32,555] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:30:32,556] {logging_mixin.py:115} INFO - [2022-12-13 00:30:32,556] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:30:32,561] {logging_mixin.py:115} INFO - [2022-12-13 00:30:32,559] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:30:32,562] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:30:32,609] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.073 seconds
+[2022-12-13 00:31:13,884] {processor.py:153} INFO - Started process (PID=20687) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:31:13,944] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:31:13,945] {logging_mixin.py:115} INFO - [2022-12-13 00:31:13,945] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:31:13,949] {logging_mixin.py:115} INFO - [2022-12-13 00:31:13,948] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:31:13,950] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:31:14,111] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.243 seconds
+[2022-12-13 00:31:57,791] {processor.py:153} INFO - Started process (PID=20836) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:31:57,797] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:31:57,798] {logging_mixin.py:115} INFO - [2022-12-13 00:31:57,798] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:31:57,806] {logging_mixin.py:115} INFO - [2022-12-13 00:31:57,805] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:31:57,807] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:31:57,844] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.059 seconds
+[2022-12-13 00:32:37,415] {processor.py:153} INFO - Started process (PID=20986) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:32:37,420] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:32:37,421] {logging_mixin.py:115} INFO - [2022-12-13 00:32:37,421] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:32:37,425] {logging_mixin.py:115} INFO - [2022-12-13 00:32:37,424] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:32:37,426] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:32:37,468] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.059 seconds
+[2022-12-13 00:33:09,952] {processor.py:153} INFO - Started process (PID=21091) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:33:09,955] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:33:09,956] {logging_mixin.py:115} INFO - [2022-12-13 00:33:09,956] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:33:09,961] {logging_mixin.py:115} INFO - [2022-12-13 00:33:09,959] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:33:09,961] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:33:09,997] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.051 seconds
+[2022-12-13 00:33:48,626] {processor.py:153} INFO - Started process (PID=21234) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:33:48,633] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:33:48,634] {logging_mixin.py:115} INFO - [2022-12-13 00:33:48,634] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:33:48,638] {logging_mixin.py:115} INFO - [2022-12-13 00:33:48,637] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:33:48,639] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:33:48,709] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.097 seconds
+[2022-12-13 00:34:19,265] {processor.py:153} INFO - Started process (PID=21341) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:34:19,269] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:34:19,270] {logging_mixin.py:115} INFO - [2022-12-13 00:34:19,270] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:34:19,274] {logging_mixin.py:115} INFO - [2022-12-13 00:34:19,273] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:34:19,280] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:34:19,342] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.091 seconds
+[2022-12-13 00:35:04,697] {processor.py:153} INFO - Started process (PID=21496) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:35:04,699] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:35:04,700] {logging_mixin.py:115} INFO - [2022-12-13 00:35:04,700] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:35:04,705] {logging_mixin.py:115} INFO - [2022-12-13 00:35:04,703] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:35:04,706] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:35:04,825] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.134 seconds
+[2022-12-13 00:35:38,565] {processor.py:153} INFO - Started process (PID=21623) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:35:38,569] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:35:38,570] {logging_mixin.py:115} INFO - [2022-12-13 00:35:38,570] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:35:38,574] {logging_mixin.py:115} INFO - [2022-12-13 00:35:38,573] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:35:38,584] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:35:38,631] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.080 seconds
+[2022-12-13 00:36:21,929] {processor.py:153} INFO - Started process (PID=21772) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:36:21,936] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:36:21,937] {logging_mixin.py:115} INFO - [2022-12-13 00:36:21,937] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:36:21,942] {logging_mixin.py:115} INFO - [2022-12-13 00:36:21,940] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:36:21,942] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:36:22,053] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.138 seconds
+[2022-12-13 00:37:03,842] {processor.py:153} INFO - Started process (PID=21924) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:37:03,852] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:37:03,854] {logging_mixin.py:115} INFO - [2022-12-13 00:37:03,853] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:37:03,862] {logging_mixin.py:115} INFO - [2022-12-13 00:37:03,860] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:37:03,862] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:37:03,960] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.125 seconds
+[2022-12-13 00:37:44,120] {processor.py:153} INFO - Started process (PID=22063) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:37:44,121] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:37:44,122] {logging_mixin.py:115} INFO - [2022-12-13 00:37:44,122] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:37:44,127] {logging_mixin.py:115} INFO - [2022-12-13 00:37:44,125] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:37:44,127] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:37:44,169] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.056 seconds
+[2022-12-13 00:38:23,079] {processor.py:153} INFO - Started process (PID=22200) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:38:23,081] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:38:23,082] {logging_mixin.py:115} INFO - [2022-12-13 00:38:23,081] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:38:23,090] {logging_mixin.py:115} INFO - [2022-12-13 00:38:23,089] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:38:23,090] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:38:23,136] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.066 seconds
+[2022-12-13 00:39:04,573] {processor.py:153} INFO - Started process (PID=22355) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:39:04,591] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:39:04,592] {logging_mixin.py:115} INFO - [2022-12-13 00:39:04,592] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:39:04,596] {logging_mixin.py:115} INFO - [2022-12-13 00:39:04,595] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:39:04,597] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:39:04,638] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.070 seconds
+[2022-12-13 00:39:49,978] {processor.py:153} INFO - Started process (PID=22515) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:39:49,983] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:39:49,984] {logging_mixin.py:115} INFO - [2022-12-13 00:39:49,984] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:39:49,991] {logging_mixin.py:115} INFO - [2022-12-13 00:39:49,987] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:39:49,992] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:39:50,066] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.100 seconds
+[2022-12-13 00:40:31,457] {processor.py:153} INFO - Started process (PID=22660) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:40:31,462] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:40:31,463] {logging_mixin.py:115} INFO - [2022-12-13 00:40:31,463] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:40:31,473] {logging_mixin.py:115} INFO - [2022-12-13 00:40:31,467] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:40:31,474] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:40:31,537] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.086 seconds
+[2022-12-13 00:41:10,329] {processor.py:153} INFO - Started process (PID=22800) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:41:10,330] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:41:10,331] {logging_mixin.py:115} INFO - [2022-12-13 00:41:10,331] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:41:10,335] {logging_mixin.py:115} INFO - [2022-12-13 00:41:10,334] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:41:10,336] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:41:10,430] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.111 seconds
+[2022-12-13 00:41:55,361] {processor.py:153} INFO - Started process (PID=22950) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:41:55,365] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:41:55,366] {logging_mixin.py:115} INFO - [2022-12-13 00:41:55,366] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:41:55,370] {logging_mixin.py:115} INFO - [2022-12-13 00:41:55,369] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:41:55,371] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:41:55,487] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.132 seconds
+[2022-12-13 00:42:38,735] {processor.py:153} INFO - Started process (PID=23102) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:42:38,739] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:42:38,740] {logging_mixin.py:115} INFO - [2022-12-13 00:42:38,740] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:42:38,744] {logging_mixin.py:115} INFO - [2022-12-13 00:42:38,743] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:42:38,745] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:42:38,791] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.070 seconds
+[2022-12-13 00:43:23,990] {processor.py:153} INFO - Started process (PID=23247) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:43:23,992] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:43:23,993] {logging_mixin.py:115} INFO - [2022-12-13 00:43:23,993] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:43:23,998] {logging_mixin.py:115} INFO - [2022-12-13 00:43:23,996] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:43:23,998] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:43:24,041] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.057 seconds
+[2022-12-13 00:43:55,521] {processor.py:153} INFO - Started process (PID=23359) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:43:55,532] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:43:55,534] {logging_mixin.py:115} INFO - [2022-12-13 00:43:55,534] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:43:55,542] {logging_mixin.py:115} INFO - [2022-12-13 00:43:55,540] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:43:55,543] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:43:55,595] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.096 seconds
+[2022-12-13 00:44:33,095] {processor.py:153} INFO - Started process (PID=23494) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:44:33,104] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:44:33,105] {logging_mixin.py:115} INFO - [2022-12-13 00:44:33,105] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:44:33,109] {logging_mixin.py:115} INFO - [2022-12-13 00:44:33,108] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:44:33,110] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:44:33,155] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.065 seconds
+[2022-12-13 00:45:18,492] {processor.py:153} INFO - Started process (PID=23650) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:45:18,497] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:45:18,498] {logging_mixin.py:115} INFO - [2022-12-13 00:45:18,497] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:45:18,502] {logging_mixin.py:115} INFO - [2022-12-13 00:45:18,501] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:45:18,503] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:45:18,549] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.064 seconds
+[2022-12-13 00:45:49,394] {processor.py:153} INFO - Started process (PID=23762) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:45:49,404] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:45:49,405] {logging_mixin.py:115} INFO - [2022-12-13 00:45:49,405] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:45:49,410] {logging_mixin.py:115} INFO - [2022-12-13 00:45:49,409] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:45:49,410] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:45:49,481] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.093 seconds
+[2022-12-13 00:46:34,815] {processor.py:153} INFO - Started process (PID=23876) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:46:34,818] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:46:34,820] {logging_mixin.py:115} INFO - [2022-12-13 00:46:34,820] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:46:34,826] {logging_mixin.py:115} INFO - [2022-12-13 00:46:34,824] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:46:34,827] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:46:35,185] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.379 seconds
+[2022-12-13 00:47:25,346] {processor.py:153} INFO - Started process (PID=24020) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:47:25,351] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:47:25,353] {logging_mixin.py:115} INFO - [2022-12-13 00:47:25,352] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:47:25,374] {logging_mixin.py:115} INFO - [2022-12-13 00:47:25,367] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:47:25,376] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:47:25,562] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.246 seconds
+[2022-12-13 00:48:02,754] {processor.py:153} INFO - Started process (PID=24111) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:48:02,756] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:48:02,758] {logging_mixin.py:115} INFO - [2022-12-13 00:48:02,757] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:48:02,767] {logging_mixin.py:115} INFO - [2022-12-13 00:48:02,764] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:48:02,767] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:48:02,893] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.145 seconds
+[2022-12-13 00:48:40,269] {processor.py:153} INFO - Started process (PID=24228) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:48:40,314] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:48:40,315] {logging_mixin.py:115} INFO - [2022-12-13 00:48:40,315] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:48:40,336] {logging_mixin.py:115} INFO - [2022-12-13 00:48:40,335] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:48:40,337] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:48:40,459] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.197 seconds
+[2022-12-13 00:49:11,319] {processor.py:153} INFO - Started process (PID=24333) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:49:11,324] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 00:49:11,325] {logging_mixin.py:115} INFO - [2022-12-13 00:49:11,325] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:49:11,336] {logging_mixin.py:115} INFO - [2022-12-13 00:49:11,329] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 00:49:11,336] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 00:49:11,417] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.114 seconds
+[2022-12-13 19:41:48,410] {processor.py:153} INFO - Started process (PID=25029) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:41:48,431] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 19:41:48,432] {logging_mixin.py:115} INFO - [2022-12-13 19:41:48,431] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:41:48,447] {logging_mixin.py:115} INFO - [2022-12-13 19:41:48,442] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 19:41:48,448] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:41:48,515] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.120 seconds
+[2022-12-13 19:42:48,542] {processor.py:153} INFO - Started process (PID=25189) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:42:48,599] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 19:42:48,600] {logging_mixin.py:115} INFO - [2022-12-13 19:42:48,600] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:42:48,607] {logging_mixin.py:115} INFO - [2022-12-13 19:42:48,604] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 19:42:48,609] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:42:48,723] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.189 seconds
+[2022-12-13 19:43:45,256] {processor.py:153} INFO - Started process (PID=25333) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:43:45,371] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 19:43:45,373] {logging_mixin.py:115} INFO - [2022-12-13 19:43:45,372] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:43:45,401] {logging_mixin.py:115} INFO - [2022-12-13 19:43:45,398] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 19:43:45,401] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:43:45,542] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.314 seconds
+[2022-12-13 19:44:44,659] {processor.py:153} INFO - Started process (PID=25483) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:44:44,665] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 19:44:44,668] {logging_mixin.py:115} INFO - [2022-12-13 19:44:44,667] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:44:44,684] {logging_mixin.py:115} INFO - [2022-12-13 19:44:44,683] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 19:44:44,686] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:44:44,784] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.142 seconds
+[2022-12-13 19:45:40,415] {processor.py:153} INFO - Started process (PID=25629) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:45:40,419] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 19:45:40,421] {logging_mixin.py:115} INFO - [2022-12-13 19:45:40,421] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:45:40,449] {logging_mixin.py:115} INFO - [2022-12-13 19:45:40,447] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 19:45:40,449] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:45:40,560] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.172 seconds
+[2022-12-13 19:46:45,193] {processor.py:153} INFO - Started process (PID=25770) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:46:45,216] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 19:46:45,217] {logging_mixin.py:115} INFO - [2022-12-13 19:46:45,217] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:46:45,232] {logging_mixin.py:115} INFO - [2022-12-13 19:46:45,230] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 19:46:45,234] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:46:45,355] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.187 seconds
+[2022-12-13 19:47:44,652] {processor.py:153} INFO - Started process (PID=25954) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:47:44,670] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 19:47:44,675] {logging_mixin.py:115} INFO - [2022-12-13 19:47:44,674] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:47:44,680] {logging_mixin.py:115} INFO - [2022-12-13 19:47:44,679] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 19:47:44,699] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:47:44,947] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.371 seconds
+[2022-12-13 19:48:22,851] {processor.py:153} INFO - Started process (PID=26037) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:48:22,856] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 19:48:22,860] {logging_mixin.py:115} INFO - [2022-12-13 19:48:22,860] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:48:22,898] {logging_mixin.py:115} INFO - [2022-12-13 19:48:22,873] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 19:48:22,899] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:48:23,084] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.272 seconds
+[2022-12-13 19:49:02,516] {processor.py:153} INFO - Started process (PID=26156) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:49:02,527] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 19:49:02,529] {logging_mixin.py:115} INFO - [2022-12-13 19:49:02,529] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:49:02,563] {logging_mixin.py:115} INFO - [2022-12-13 19:49:02,549] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 19:49:02,564] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:49:02,809] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.336 seconds
+[2022-12-13 19:49:44,623] {processor.py:153} INFO - Started process (PID=26399) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:49:44,640] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 19:49:44,647] {logging_mixin.py:115} INFO - [2022-12-13 19:49:44,647] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:49:44,660] {logging_mixin.py:115} INFO - [2022-12-13 19:49:44,651] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 19:49:44,667] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:49:45,072] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.464 seconds
+[2022-12-13 19:50:29,212] {processor.py:153} INFO - Started process (PID=26526) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:50:29,217] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 19:50:29,221] {logging_mixin.py:115} INFO - [2022-12-13 19:50:29,220] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:50:29,243] {logging_mixin.py:115} INFO - [2022-12-13 19:50:29,237] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 19:50:29,247] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:50:29,385] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.210 seconds
+[2022-12-13 19:51:12,209] {processor.py:153} INFO - Started process (PID=26622) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:51:12,215] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 19:51:12,217] {logging_mixin.py:115} INFO - [2022-12-13 19:51:12,217] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:51:12,243] {logging_mixin.py:115} INFO - [2022-12-13 19:51:12,231] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 19:51:12,244] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:51:12,369] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.177 seconds
+[2022-12-13 19:51:53,887] {processor.py:153} INFO - Started process (PID=26746) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:51:53,900] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 19:51:53,908] {logging_mixin.py:115} INFO - [2022-12-13 19:51:53,907] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:51:53,948] {logging_mixin.py:115} INFO - [2022-12-13 19:51:53,937] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 19:51:53,955] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:51:54,234] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.395 seconds
+[2022-12-13 19:52:37,014] {processor.py:153} INFO - Started process (PID=26967) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:52:37,028] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 19:52:37,042] {logging_mixin.py:115} INFO - [2022-12-13 19:52:37,042] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:52:37,069] {logging_mixin.py:115} INFO - [2022-12-13 19:52:37,053] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 19:52:37,070] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:52:37,235] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.235 seconds
+[2022-12-13 19:53:21,580] {processor.py:153} INFO - Started process (PID=27105) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:53:21,599] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 19:53:21,611] {logging_mixin.py:115} INFO - [2022-12-13 19:53:21,611] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:53:21,641] {logging_mixin.py:115} INFO - [2022-12-13 19:53:21,617] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 19:53:21,642] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:53:21,950] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.388 seconds
+[2022-12-13 19:54:08,224] {processor.py:153} INFO - Started process (PID=27182) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:54:08,230] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 19:54:08,236] {logging_mixin.py:115} INFO - [2022-12-13 19:54:08,236] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:54:08,270] {logging_mixin.py:115} INFO - [2022-12-13 19:54:08,252] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 19:54:08,272] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:54:08,468] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.267 seconds
+[2022-12-13 19:54:55,864] {processor.py:153} INFO - Started process (PID=27265) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:54:55,897] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 19:54:55,915] {logging_mixin.py:115} INFO - [2022-12-13 19:54:55,915] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:54:56,019] {logging_mixin.py:115} INFO - [2022-12-13 19:54:55,964] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 17
+    python_callable = hello
+    ^
+SyntaxError: invalid syntax
+[2022-12-13 19:54:56,020] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 19:54:56,473] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.690 seconds

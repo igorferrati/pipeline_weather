@@ -1,0 +1,840 @@
+[2022-12-13 21:25:52,534] {processor.py:153} INFO - Started process (PID=29670) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:25:52,549] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 21:25:52,550] {logging_mixin.py:115} INFO - [2022-12-13 21:25:52,550] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:25:52,782] {logging_mixin.py:115} INFO - [2022-12-13 21:25:52,745] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 15, in <module>
+    task = PythonOperator(
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2022-12-13 21:25:52,782] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:25:53,013] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.515 seconds
+[2022-12-13 21:27:28,562] {processor.py:153} INFO - Started process (PID=29920) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:27:28,573] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 21:27:28,575] {logging_mixin.py:115} INFO - [2022-12-13 21:27:28,575] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:27:28,684] {logging_mixin.py:115} INFO - [2022-12-13 21:27:28,640] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 15, in <module>
+    task = PythonOperator(
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2022-12-13 21:27:28,686] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:27:28,998] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.457 seconds
+[2022-12-13 21:28:06,209] {processor.py:153} INFO - Started process (PID=30032) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:28:06,220] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 21:28:06,221] {logging_mixin.py:115} INFO - [2022-12-13 21:28:06,221] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:28:06,278] {logging_mixin.py:115} INFO - [2022-12-13 21:28:06,270] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 15, in <module>
+    task = PythonOperator(
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2022-12-13 21:28:06,279] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:28:06,379] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.190 seconds
+[2022-12-13 21:28:39,751] {processor.py:153} INFO - Started process (PID=30126) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:28:39,765] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 21:28:39,766] {logging_mixin.py:115} INFO - [2022-12-13 21:28:39,766] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:28:39,870] {logging_mixin.py:115} INFO - [2022-12-13 21:28:39,855] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 15, in <module>
+    task = PythonOperator(
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2022-12-13 21:28:39,883] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:28:40,112] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.380 seconds
+[2022-12-13 21:29:12,871] {processor.py:153} INFO - Started process (PID=30226) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:29:12,876] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 21:29:12,880] {logging_mixin.py:115} INFO - [2022-12-13 21:29:12,880] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:29:12,915] {logging_mixin.py:115} INFO - [2022-12-13 21:29:12,912] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 15, in <module>
+    task = PythonOperator(
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2022-12-13 21:29:12,924] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:29:13,016] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.161 seconds
+[2022-12-13 21:30:17,565] {processor.py:153} INFO - Started process (PID=30399) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:30:17,568] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 21:30:17,570] {logging_mixin.py:115} INFO - [2022-12-13 21:30:17,570] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:30:17,677] {logging_mixin.py:115} INFO - [2022-12-13 21:30:17,660] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 15, in <module>
+    task = PythonOperator(
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2022-12-13 21:30:17,678] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:30:17,868] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.347 seconds
+[2022-12-13 21:31:16,908] {processor.py:153} INFO - Started process (PID=30510) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:31:16,920] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 21:31:16,921] {logging_mixin.py:115} INFO - [2022-12-13 21:31:16,921] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:31:17,029] {logging_mixin.py:115} INFO - [2022-12-13 21:31:17,016] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 15, in <module>
+    task = PythonOperator(
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2022-12-13 21:31:17,040] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:31:17,261] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.376 seconds
+[2022-12-13 21:32:13,510] {processor.py:153} INFO - Started process (PID=30619) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:32:13,637] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 21:32:13,643] {logging_mixin.py:115} INFO - [2022-12-13 21:32:13,642] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:32:13,788] {logging_mixin.py:115} INFO - [2022-12-13 21:32:13,771] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 15, in <module>
+    task = PythonOperator(
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2022-12-13 21:32:13,789] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:32:14,064] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.582 seconds
+[2022-12-13 21:33:08,545] {processor.py:153} INFO - Started process (PID=30735) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:33:08,695] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 21:33:08,853] {logging_mixin.py:115} INFO - [2022-12-13 21:33:08,852] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:33:09,030] {logging_mixin.py:115} INFO - [2022-12-13 21:33:08,939] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 15, in <module>
+    task = PythonOperator(
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2022-12-13 21:33:09,036] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:33:09,765] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 1.230 seconds
+[2022-12-13 21:34:03,681] {processor.py:153} INFO - Started process (PID=30842) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:34:03,690] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 21:34:03,704] {logging_mixin.py:115} INFO - [2022-12-13 21:34:03,704] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:34:03,824] {logging_mixin.py:115} INFO - [2022-12-13 21:34:03,792] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 15, in <module>
+    task = PythonOperator(
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2022-12-13 21:34:03,825] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:34:04,030] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.399 seconds
+[2022-12-13 21:34:58,401] {processor.py:153} INFO - Started process (PID=30947) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:34:58,412] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 21:34:58,414] {logging_mixin.py:115} INFO - [2022-12-13 21:34:58,414] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:34:58,472] {logging_mixin.py:115} INFO - [2022-12-13 21:34:58,468] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 15, in <module>
+    task = PythonOperator(
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2022-12-13 21:34:58,512] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:34:58,720] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.415 seconds
+[2022-12-13 21:36:34,437] {processor.py:153} INFO - Started process (PID=31105) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:36:34,451] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 21:36:34,458] {logging_mixin.py:115} INFO - [2022-12-13 21:36:34,457] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:36:34,540] {logging_mixin.py:115} INFO - [2022-12-13 21:36:34,522] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 15, in <module>
+    task = PythonOperator(
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2022-12-13 21:36:34,541] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:36:34,673] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.251 seconds
+[2022-12-13 21:37:40,101] {processor.py:153} INFO - Started process (PID=31375) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:37:40,111] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 21:37:40,117] {logging_mixin.py:115} INFO - [2022-12-13 21:37:40,117] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:37:40,222] {logging_mixin.py:115} INFO - [2022-12-13 21:37:40,190] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 15, in <module>
+    task = PythonOperator(
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2022-12-13 21:37:40,222] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:37:40,454] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.367 seconds
+[2022-12-13 21:38:21,029] {processor.py:153} INFO - Started process (PID=31489) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:38:21,044] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 21:38:21,064] {logging_mixin.py:115} INFO - [2022-12-13 21:38:21,064] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:38:21,131] {logging_mixin.py:115} INFO - [2022-12-13 21:38:21,110] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 15, in <module>
+    task = PythonOperator(
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2022-12-13 21:38:21,132] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:38:21,281] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.271 seconds
+[2022-12-13 21:38:51,382] {processor.py:153} INFO - Started process (PID=31581) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:38:51,396] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 21:38:51,397] {logging_mixin.py:115} INFO - [2022-12-13 21:38:51,397] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:38:51,489] {logging_mixin.py:115} INFO - [2022-12-13 21:38:51,466] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 15, in <module>
+    task = PythonOperator(
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2022-12-13 21:38:51,490] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 21:38:51,595] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.230 seconds
+[2022-12-13 23:00:08,708] {processor.py:153} INFO - Started process (PID=35006) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:00:08,711] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 23:00:08,713] {logging_mixin.py:115} INFO - [2022-12-13 23:00:08,712] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:00:08,817] {logging_mixin.py:115} INFO - [2022-12-13 23:00:08,782] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 15, in <module>
+    task = PythonOperator(
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2022-12-13 23:00:08,826] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:00:09,305] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.612 seconds
+[2022-12-13 23:01:36,494] {processor.py:153} INFO - Started process (PID=35447) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:01:36,504] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 23:01:36,506] {logging_mixin.py:115} INFO - [2022-12-13 23:01:36,506] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:01:36,630] {logging_mixin.py:115} INFO - [2022-12-13 23:01:36,616] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 15, in <module>
+    task = PythonOperator(
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2022-12-13 23:01:36,636] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:01:36,965] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.520 seconds
+[2022-12-13 23:02:39,525] {processor.py:153} INFO - Started process (PID=35665) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:02:39,540] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 23:02:39,541] {logging_mixin.py:115} INFO - [2022-12-13 23:02:39,541] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:02:39,695] {logging_mixin.py:115} INFO - [2022-12-13 23:02:39,673] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 15, in <module>
+    task = PythonOperator(
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2022-12-13 23:02:39,697] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:02:39,962] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.490 seconds
+[2022-12-13 23:03:44,280] {processor.py:153} INFO - Started process (PID=35816) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:03:44,304] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 23:03:44,305] {logging_mixin.py:115} INFO - [2022-12-13 23:03:44,305] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:03:44,529] {logging_mixin.py:115} INFO - [2022-12-13 23:03:44,506] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 15, in <module>
+    task = PythonOperator(
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2022-12-13 23:03:44,548] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:03:44,861] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.625 seconds
+[2022-12-13 23:04:47,632] {processor.py:153} INFO - Started process (PID=35941) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:04:47,638] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 23:04:47,652] {logging_mixin.py:115} INFO - [2022-12-13 23:04:47,652] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:04:47,744] {logging_mixin.py:115} INFO - [2022-12-13 23:04:47,710] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 15, in <module>
+    task = PythonOperator(
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2022-12-13 23:04:47,745] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:04:47,917] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.331 seconds
+[2022-12-13 23:05:43,484] {processor.py:153} INFO - Started process (PID=36092) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:05:43,521] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 23:05:43,527] {logging_mixin.py:115} INFO - [2022-12-13 23:05:43,523] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:05:43,754] {logging_mixin.py:115} INFO - [2022-12-13 23:05:43,704] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 15, in <module>
+    task = PythonOperator(
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2022-12-13 23:05:43,755] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:05:44,055] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.671 seconds
+[2022-12-13 23:06:41,040] {processor.py:153} INFO - Started process (PID=36191) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:06:41,047] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 23:06:41,052] {logging_mixin.py:115} INFO - [2022-12-13 23:06:41,052] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:06:41,213] {logging_mixin.py:115} INFO - [2022-12-13 23:06:41,151] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 15, in <module>
+    task = PythonOperator(
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2022-12-13 23:06:41,214] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:06:41,633] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.625 seconds
+[2022-12-13 23:07:46,445] {processor.py:153} INFO - Started process (PID=36291) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:07:46,455] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 23:07:46,457] {logging_mixin.py:115} INFO - [2022-12-13 23:07:46,456] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:07:46,611] {logging_mixin.py:115} INFO - [2022-12-13 23:07:46,590] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 15, in <module>
+    task = PythonOperator(
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2022-12-13 23:07:46,615] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:07:47,220] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.811 seconds
+[2022-12-13 23:09:34,829] {processor.py:153} INFO - Started process (PID=36467) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:09:34,840] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 23:09:34,847] {logging_mixin.py:115} INFO - [2022-12-13 23:09:34,847] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:09:34,972] {logging_mixin.py:115} INFO - [2022-12-13 23:09:34,947] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 15, in <module>
+    task = PythonOperator(
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2022-12-13 23:09:34,973] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:09:35,227] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.418 seconds
+[2022-12-13 23:11:36,951] {processor.py:153} INFO - Started process (PID=36655) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:11:36,958] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 23:11:36,966] {logging_mixin.py:115} INFO - [2022-12-13 23:11:36,965] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:11:37,375] {logging_mixin.py:115} INFO - [2022-12-13 23:11:37,331] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 15, in <module>
+    task = PythonOperator(
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2022-12-13 23:11:37,410] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:11:37,813] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.904 seconds
+[2022-12-13 23:13:03,992] {processor.py:153} INFO - Started process (PID=36971) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:13:04,007] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 23:13:04,008] {logging_mixin.py:115} INFO - [2022-12-13 23:13:04,008] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:13:04,133] {logging_mixin.py:115} INFO - [2022-12-13 23:13:04,130] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 15, in <module>
+    task = PythonOperator(
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2022-12-13 23:13:04,134] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:13:04,266] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.319 seconds
+[2022-12-13 23:13:53,312] {processor.py:153} INFO - Started process (PID=37119) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:13:53,320] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 23:13:53,321] {logging_mixin.py:115} INFO - [2022-12-13 23:13:53,321] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:13:53,485] {logging_mixin.py:115} INFO - [2022-12-13 23:13:53,464] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 15, in <module>
+    task = PythonOperator(
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2022-12-13 23:13:53,493] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:13:53,788] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.497 seconds
+[2022-12-13 23:14:37,922] {processor.py:153} INFO - Started process (PID=37223) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:14:37,925] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 23:14:37,944] {logging_mixin.py:115} INFO - [2022-12-13 23:14:37,930] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:14:38,045] {logging_mixin.py:115} INFO - [2022-12-13 23:14:38,033] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 15, in <module>
+    task = PythonOperator(
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2022-12-13 23:14:38,046] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:14:38,171] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.270 seconds
+[2022-12-13 23:15:26,184] {processor.py:153} INFO - Started process (PID=37333) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:15:26,188] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 23:15:26,192] {logging_mixin.py:115} INFO - [2022-12-13 23:15:26,192] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:15:26,355] {logging_mixin.py:115} INFO - [2022-12-13 23:15:26,342] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 15, in <module>
+    task = PythonOperator(
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2022-12-13 23:15:26,356] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:15:26,534] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.380 seconds
+[2022-12-13 23:16:53,456] {processor.py:153} INFO - Started process (PID=37439) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:16:59,129] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 23:16:59,133] {logging_mixin.py:115} INFO - [2022-12-13 23:16:59,133] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:17:04,098] {logging_mixin.py:115} INFO - [2022-12-13 23:17:00,632] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 15, in <module>
+    task = PythonOperator(
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2022-12-13 23:17:04,101] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:17:06,473] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 13.033 seconds
+[2022-12-13 23:18:08,833] {processor.py:153} INFO - Started process (PID=37576) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:18:08,841] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 23:18:08,842] {logging_mixin.py:115} INFO - [2022-12-13 23:18:08,842] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:18:08,937] {logging_mixin.py:115} INFO - [2022-12-13 23:18:08,911] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 15, in <module>
+    task = PythonOperator(
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2022-12-13 23:18:08,938] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:18:09,062] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.251 seconds
+[2022-12-13 23:18:55,577] {processor.py:153} INFO - Started process (PID=37689) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:18:55,580] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 23:18:55,581] {logging_mixin.py:115} INFO - [2022-12-13 23:18:55,581] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:18:55,662] {logging_mixin.py:115} INFO - [2022-12-13 23:18:55,657] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 15, in <module>
+    task = PythonOperator(
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2022-12-13 23:18:55,662] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:18:55,808] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.248 seconds
+[2022-12-13 23:19:35,069] {processor.py:153} INFO - Started process (PID=37784) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:19:35,078] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 23:19:35,079] {logging_mixin.py:115} INFO - [2022-12-13 23:19:35,079] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:19:35,149] {logging_mixin.py:115} INFO - [2022-12-13 23:19:35,133] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 15, in <module>
+    task = PythonOperator(
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2022-12-13 23:19:35,150] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:19:35,332] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.288 seconds
+[2022-12-13 23:20:13,175] {processor.py:153} INFO - Started process (PID=37877) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:20:13,188] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 23:20:13,191] {logging_mixin.py:115} INFO - [2022-12-13 23:20:13,191] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:20:13,262] {logging_mixin.py:115} INFO - [2022-12-13 23:20:13,259] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 15, in <module>
+    task = PythonOperator(
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2022-12-13 23:20:13,263] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:20:13,406] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.257 seconds
+[2022-12-13 23:20:50,554] {processor.py:153} INFO - Started process (PID=37979) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:20:50,563] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 23:20:50,565] {logging_mixin.py:115} INFO - [2022-12-13 23:20:50,564] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:20:50,655] {logging_mixin.py:115} INFO - [2022-12-13 23:20:50,652] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 15, in <module>
+    task = PythonOperator(
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2022-12-13 23:20:50,668] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:20:50,793] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.254 seconds
+[2022-12-13 23:22:04,623] {processor.py:153} INFO - Started process (PID=38174) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:22:04,638] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 23:22:04,651] {logging_mixin.py:115} INFO - [2022-12-13 23:22:04,646] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:22:04,738] {logging_mixin.py:115} INFO - [2022-12-13 23:22:04,732] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 15, in <module>
+    task = PythonOperator(
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2022-12-13 23:22:04,739] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:22:04,880] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.272 seconds
+[2022-12-13 23:22:44,145] {processor.py:153} INFO - Started process (PID=38295) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:22:44,156] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 23:22:44,157] {logging_mixin.py:115} INFO - [2022-12-13 23:22:44,157] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:22:44,231] {logging_mixin.py:115} INFO - [2022-12-13 23:22:44,218] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 15, in <module>
+    task = PythonOperator(
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2022-12-13 23:22:44,232] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:22:44,374] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.251 seconds
+[2022-12-13 23:23:25,208] {processor.py:153} INFO - Started process (PID=38437) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:23:25,220] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 23:23:25,221] {logging_mixin.py:115} INFO - [2022-12-13 23:23:25,221] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:23:25,286] {logging_mixin.py:115} INFO - [2022-12-13 23:23:25,283] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 15, in <module>
+    task = PythonOperator(
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2022-12-13 23:23:25,287] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:23:25,406] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.218 seconds
+[2022-12-13 23:24:06,081] {processor.py:153} INFO - Started process (PID=38546) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:24:06,092] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 23:24:06,093] {logging_mixin.py:115} INFO - [2022-12-13 23:24:06,093] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:24:06,179] {logging_mixin.py:115} INFO - [2022-12-13 23:24:06,160] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 15, in <module>
+    task = PythonOperator(
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2022-12-13 23:24:06,187] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:24:06,330] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.274 seconds
+[2022-12-13 23:25:19,017] {processor.py:153} INFO - Started process (PID=38726) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:25:19,031] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 23:25:19,034] {logging_mixin.py:115} INFO - [2022-12-13 23:25:19,034] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:25:19,126] {logging_mixin.py:115} INFO - [2022-12-13 23:25:19,124] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 15, in <module>
+    task = PythonOperator(
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2022-12-13 23:25:19,126] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:25:19,280] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.287 seconds
+[2022-12-13 23:25:56,188] {processor.py:153} INFO - Started process (PID=38823) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:25:56,194] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 23:25:56,195] {logging_mixin.py:115} INFO - [2022-12-13 23:25:56,194] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:25:56,255] {logging_mixin.py:115} INFO - [2022-12-13 23:25:56,252] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 15, in <module>
+    task = PythonOperator(
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2022-12-13 23:25:56,269] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:25:56,431] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.264 seconds
+[2022-12-13 23:27:08,373] {processor.py:153} INFO - Started process (PID=39003) to work on /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:27:08,382] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/desafio_aula4.py for tasks to queue
+[2022-12-13 23:27:08,384] {logging_mixin.py:115} INFO - [2022-12-13 23:27:08,384] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:27:08,452] {logging_mixin.py:115} INFO - [2022-12-13 23:27:08,445] {dagbag.py:320} ERROR - Failed to import: /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+Traceback (most recent call last):
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/igor/Documents/airflowalura/dags/desafio_aula4.py", line 15, in <module>
+    task = PythonOperator(
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/igor/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2022-12-13 23:27:08,453] {processor.py:653} WARNING - No viable dags retrieved from /home/igor/Documents/airflowalura/dags/desafio_aula4.py
+[2022-12-13 23:27:08,624] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/desafio_aula4.py took 0.279 seconds

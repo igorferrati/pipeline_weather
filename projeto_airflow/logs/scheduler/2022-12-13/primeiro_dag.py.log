@@ -1,0 +1,830 @@
+[2022-12-12 23:12:25,399] {processor.py:153} INFO - Started process (PID=58551) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:12:25,415] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-12 23:12:25,422] {logging_mixin.py:115} INFO - [2022-12-12 23:12:25,421] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:12:25,647] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:12:27,570] {logging_mixin.py:115} INFO - [2022-12-12 23:12:27,556] {manager.py:508} INFO - Created Permission View: can edit on DAG:primeiro_dag
+[2022-12-12 23:12:27,873] {logging_mixin.py:115} INFO - [2022-12-12 23:12:27,868] {manager.py:508} INFO - Created Permission View: can delete on DAG:primeiro_dag
+[2022-12-12 23:12:28,036] {logging_mixin.py:115} INFO - [2022-12-12 23:12:28,036] {manager.py:508} INFO - Created Permission View: can read on DAG:primeiro_dag
+[2022-12-12 23:12:28,062] {logging_mixin.py:115} INFO - [2022-12-12 23:12:28,061] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-12 23:12:28,224] {logging_mixin.py:115} INFO - [2022-12-12 23:12:28,224] {dag.py:2398} INFO - Creating ORM DAG for primeiro_dag
+[2022-12-12 23:12:28,373] {logging_mixin.py:115} INFO - [2022-12-12 23:12:28,373] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-12T00:00:00+00:00, run_after=2022-12-13T00:00:00+00:00
+[2022-12-12 23:12:28,605] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 3.269 seconds
+[2022-12-12 23:37:12,298] {processor.py:153} INFO - Started process (PID=10669) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:37:12,321] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-12 23:37:12,322] {logging_mixin.py:115} INFO - [2022-12-12 23:37:12,322] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:37:12,382] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:37:12,474] {logging_mixin.py:115} INFO - [2022-12-12 23:37:12,474] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-12 23:37:12,647] {logging_mixin.py:115} INFO - [2022-12-12 23:37:12,647] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-12T00:00:00+00:00, run_after=2022-12-13T00:00:00+00:00
+[2022-12-12 23:37:12,775] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.482 seconds
+[2022-12-12 23:38:26,869] {processor.py:153} INFO - Started process (PID=10850) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:38:26,871] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-12 23:38:26,880] {logging_mixin.py:115} INFO - [2022-12-12 23:38:26,880] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:38:26,916] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:38:26,959] {logging_mixin.py:115} INFO - [2022-12-12 23:38:26,959] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-12 23:38:27,017] {logging_mixin.py:115} INFO - [2022-12-12 23:38:27,017] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-12T00:00:00+00:00, run_after=2022-12-13T00:00:00+00:00
+[2022-12-12 23:38:27,076] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.223 seconds
+[2022-12-12 23:39:34,943] {processor.py:153} INFO - Started process (PID=11262) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:39:34,956] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-12 23:39:34,957] {logging_mixin.py:115} INFO - [2022-12-12 23:39:34,957] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:39:35,007] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:39:35,180] {logging_mixin.py:115} INFO - [2022-12-12 23:39:35,175] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-12 23:39:35,373] {logging_mixin.py:115} INFO - [2022-12-12 23:39:35,372] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-12T00:00:00+00:00, run_after=2022-12-13T00:00:00+00:00
+[2022-12-12 23:39:35,441] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.514 seconds
+[2022-12-12 23:40:11,106] {processor.py:153} INFO - Started process (PID=11360) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:40:11,111] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-12 23:40:11,113] {logging_mixin.py:115} INFO - [2022-12-12 23:40:11,113] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:40:11,191] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:40:11,371] {logging_mixin.py:115} INFO - [2022-12-12 23:40:11,359] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-12 23:40:11,768] {logging_mixin.py:115} INFO - [2022-12-12 23:40:11,764] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-12T00:00:00+00:00, run_after=2022-12-13T00:00:00+00:00
+[2022-12-12 23:40:11,892] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.807 seconds
+[2022-12-12 23:40:42,802] {processor.py:153} INFO - Started process (PID=11441) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:40:42,846] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-12 23:40:42,848] {logging_mixin.py:115} INFO - [2022-12-12 23:40:42,847] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:40:42,889] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:40:42,981] {logging_mixin.py:115} INFO - [2022-12-12 23:40:42,981] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-12 23:40:43,112] {logging_mixin.py:115} INFO - [2022-12-12 23:40:43,107] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-12T00:00:00+00:00, run_after=2022-12-13T00:00:00+00:00
+[2022-12-12 23:40:43,166] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.384 seconds
+[2022-12-12 23:41:14,642] {processor.py:153} INFO - Started process (PID=11511) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:41:14,658] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-12 23:41:14,663] {logging_mixin.py:115} INFO - [2022-12-12 23:41:14,663] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:41:14,719] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:41:14,824] {logging_mixin.py:115} INFO - [2022-12-12 23:41:14,824] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-12 23:41:15,068] {logging_mixin.py:115} INFO - [2022-12-12 23:41:15,068] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-12T00:00:00+00:00, run_after=2022-12-13T00:00:00+00:00
+[2022-12-12 23:41:15,228] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.610 seconds
+[2022-12-12 23:42:19,611] {processor.py:153} INFO - Started process (PID=11656) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:42:19,625] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-12 23:42:19,626] {logging_mixin.py:115} INFO - [2022-12-12 23:42:19,626] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:42:19,673] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:42:19,875] {logging_mixin.py:115} INFO - [2022-12-12 23:42:19,875] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-12 23:42:20,187] {logging_mixin.py:115} INFO - [2022-12-12 23:42:20,187] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-12T00:00:00+00:00, run_after=2022-12-13T00:00:00+00:00
+[2022-12-12 23:42:20,304] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.707 seconds
+[2022-12-12 23:43:06,828] {processor.py:153} INFO - Started process (PID=11807) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:43:06,832] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-12 23:43:06,833] {logging_mixin.py:115} INFO - [2022-12-12 23:43:06,833] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:43:06,851] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:43:06,890] {logging_mixin.py:115} INFO - [2022-12-12 23:43:06,890] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-12 23:43:06,939] {logging_mixin.py:115} INFO - [2022-12-12 23:43:06,939] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-12T00:00:00+00:00, run_after=2022-12-13T00:00:00+00:00
+[2022-12-12 23:43:06,996] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.174 seconds
+[2022-12-12 23:43:43,898] {processor.py:153} INFO - Started process (PID=11917) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:43:43,905] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-12 23:43:43,907] {logging_mixin.py:115} INFO - [2022-12-12 23:43:43,906] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:43:43,951] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:43:44,034] {logging_mixin.py:115} INFO - [2022-12-12 23:43:44,034] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-12 23:43:44,215] {logging_mixin.py:115} INFO - [2022-12-12 23:43:44,214] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-12T00:00:00+00:00, run_after=2022-12-13T00:00:00+00:00
+[2022-12-12 23:43:44,241] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.350 seconds
+[2022-12-12 23:44:21,691] {processor.py:153} INFO - Started process (PID=12040) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:44:21,697] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-12 23:44:21,698] {logging_mixin.py:115} INFO - [2022-12-12 23:44:21,698] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:44:21,723] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:44:21,806] {logging_mixin.py:115} INFO - [2022-12-12 23:44:21,805] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-12 23:44:21,893] {logging_mixin.py:115} INFO - [2022-12-12 23:44:21,893] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-12T00:00:00+00:00, run_after=2022-12-13T00:00:00+00:00
+[2022-12-12 23:44:21,935] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.250 seconds
+[2022-12-12 23:44:52,568] {processor.py:153} INFO - Started process (PID=12143) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:44:52,573] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-12 23:44:52,574] {logging_mixin.py:115} INFO - [2022-12-12 23:44:52,574] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:44:52,593] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:44:52,636] {logging_mixin.py:115} INFO - [2022-12-12 23:44:52,636] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-12 23:44:52,728] {logging_mixin.py:115} INFO - [2022-12-12 23:44:52,728] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-12T00:00:00+00:00, run_after=2022-12-13T00:00:00+00:00
+[2022-12-12 23:44:52,774] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.212 seconds
+[2022-12-12 23:45:23,708] {processor.py:153} INFO - Started process (PID=12242) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:45:23,711] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-12 23:45:23,713] {logging_mixin.py:115} INFO - [2022-12-12 23:45:23,712] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:45:23,729] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:45:23,769] {logging_mixin.py:115} INFO - [2022-12-12 23:45:23,769] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-12 23:45:23,845] {logging_mixin.py:115} INFO - [2022-12-12 23:45:23,844] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-12T00:00:00+00:00, run_after=2022-12-13T00:00:00+00:00
+[2022-12-12 23:45:23,897] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.203 seconds
+[2022-12-12 23:45:56,196] {processor.py:153} INFO - Started process (PID=12348) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:45:56,200] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-12 23:45:56,201] {logging_mixin.py:115} INFO - [2022-12-12 23:45:56,201] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:45:56,219] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:45:56,293] {logging_mixin.py:115} INFO - [2022-12-12 23:45:56,293] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-12 23:45:56,342] {logging_mixin.py:115} INFO - [2022-12-12 23:45:56,342] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-12T00:00:00+00:00, run_after=2022-12-13T00:00:00+00:00
+[2022-12-12 23:45:56,371] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.183 seconds
+[2022-12-12 23:46:48,154] {processor.py:153} INFO - Started process (PID=12472) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:46:48,162] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-12 23:46:48,164] {logging_mixin.py:115} INFO - [2022-12-12 23:46:48,164] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:46:48,211] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:46:48,320] {logging_mixin.py:115} INFO - [2022-12-12 23:46:48,320] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-12 23:46:48,588] {logging_mixin.py:115} INFO - [2022-12-12 23:46:48,587] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-12 23:46:48,683] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.549 seconds
+[2022-12-12 23:47:40,614] {processor.py:153} INFO - Started process (PID=12608) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:47:40,625] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-12 23:47:40,632] {logging_mixin.py:115} INFO - [2022-12-12 23:47:40,632] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:47:40,677] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:47:40,721] {logging_mixin.py:115} INFO - [2022-12-12 23:47:40,721] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-12 23:47:40,821] {logging_mixin.py:115} INFO - [2022-12-12 23:47:40,820] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-12 23:47:40,865] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.259 seconds
+[2022-12-12 23:48:25,218] {processor.py:153} INFO - Started process (PID=12737) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:48:25,229] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-12 23:48:25,231] {logging_mixin.py:115} INFO - [2022-12-12 23:48:25,230] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:48:25,264] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:48:25,304] {logging_mixin.py:115} INFO - [2022-12-12 23:48:25,304] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-12 23:48:25,472] {logging_mixin.py:115} INFO - [2022-12-12 23:48:25,472] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-12 23:48:25,535] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.328 seconds
+[2022-12-12 23:49:12,045] {processor.py:153} INFO - Started process (PID=12858) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:49:12,055] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-12 23:49:12,057] {logging_mixin.py:115} INFO - [2022-12-12 23:49:12,057] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:49:12,143] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:49:12,390] {logging_mixin.py:115} INFO - [2022-12-12 23:49:12,390] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-12 23:49:12,608] {logging_mixin.py:115} INFO - [2022-12-12 23:49:12,607] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-12 23:49:12,659] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.631 seconds
+[2022-12-12 23:49:43,028] {processor.py:153} INFO - Started process (PID=12924) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:49:43,033] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-12 23:49:43,034] {logging_mixin.py:115} INFO - [2022-12-12 23:49:43,034] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:49:43,076] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:49:43,201] {logging_mixin.py:115} INFO - [2022-12-12 23:49:43,199] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-12 23:49:43,527] {logging_mixin.py:115} INFO - [2022-12-12 23:49:43,519] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-12 23:49:43,654] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.633 seconds
+[2022-12-12 23:50:36,429] {processor.py:153} INFO - Started process (PID=13063) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:50:36,433] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-12 23:50:36,436] {logging_mixin.py:115} INFO - [2022-12-12 23:50:36,436] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:50:36,459] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:50:36,531] {logging_mixin.py:115} INFO - [2022-12-12 23:50:36,531] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-12 23:50:36,619] {logging_mixin.py:115} INFO - [2022-12-12 23:50:36,619] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-12 23:50:36,666] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.243 seconds
+[2022-12-12 23:51:28,479] {processor.py:153} INFO - Started process (PID=13192) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:51:28,487] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-12 23:51:28,489] {logging_mixin.py:115} INFO - [2022-12-12 23:51:28,489] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:51:28,516] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:51:28,609] {logging_mixin.py:115} INFO - [2022-12-12 23:51:28,609] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-12 23:51:28,673] {logging_mixin.py:115} INFO - [2022-12-12 23:51:28,673] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-12 23:51:28,727] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.259 seconds
+[2022-12-12 23:52:14,059] {processor.py:153} INFO - Started process (PID=13326) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:52:14,069] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-12 23:52:14,071] {logging_mixin.py:115} INFO - [2022-12-12 23:52:14,071] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:52:14,104] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:52:14,213] {logging_mixin.py:115} INFO - [2022-12-12 23:52:14,213] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-12 23:52:14,296] {logging_mixin.py:115} INFO - [2022-12-12 23:52:14,296] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-12 23:52:14,331] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.278 seconds
+[2022-12-12 23:52:51,270] {processor.py:153} INFO - Started process (PID=13446) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:52:51,296] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-12 23:52:51,298] {logging_mixin.py:115} INFO - [2022-12-12 23:52:51,298] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:52:51,355] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:52:51,440] {logging_mixin.py:115} INFO - [2022-12-12 23:52:51,440] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-12 23:52:51,488] {logging_mixin.py:115} INFO - [2022-12-12 23:52:51,487] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-12 23:52:51,524] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.265 seconds
+[2022-12-12 23:53:23,547] {processor.py:153} INFO - Started process (PID=13551) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:53:23,559] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-12 23:53:23,560] {logging_mixin.py:115} INFO - [2022-12-12 23:53:23,560] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:53:23,599] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:53:23,657] {logging_mixin.py:115} INFO - [2022-12-12 23:53:23,656] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-12 23:53:23,736] {logging_mixin.py:115} INFO - [2022-12-12 23:53:23,736] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-12 23:53:23,771] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.231 seconds
+[2022-12-12 23:54:07,002] {processor.py:153} INFO - Started process (PID=13702) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:54:07,013] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-12 23:54:07,015] {logging_mixin.py:115} INFO - [2022-12-12 23:54:07,014] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:54:07,054] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:54:07,111] {logging_mixin.py:115} INFO - [2022-12-12 23:54:07,111] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-12 23:54:07,184] {logging_mixin.py:115} INFO - [2022-12-12 23:54:07,184] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-12 23:54:07,258] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.262 seconds
+[2022-12-12 23:54:52,968] {processor.py:153} INFO - Started process (PID=13849) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:54:52,972] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-12 23:54:52,973] {logging_mixin.py:115} INFO - [2022-12-12 23:54:52,973] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:54:53,039] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:54:53,128] {logging_mixin.py:115} INFO - [2022-12-12 23:54:53,128] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-12 23:54:53,220] {logging_mixin.py:115} INFO - [2022-12-12 23:54:53,219] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-12 23:54:53,253] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.310 seconds
+[2022-12-12 23:55:25,220] {processor.py:153} INFO - Started process (PID=13953) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:55:25,230] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-12 23:55:25,231] {logging_mixin.py:115} INFO - [2022-12-12 23:55:25,231] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:55:25,283] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:55:25,344] {logging_mixin.py:115} INFO - [2022-12-12 23:55:25,344] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-12 23:55:25,404] {logging_mixin.py:115} INFO - [2022-12-12 23:55:25,404] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-12 23:55:25,430] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.216 seconds
+[2022-12-12 23:56:10,781] {processor.py:153} INFO - Started process (PID=14096) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:56:10,785] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-12 23:56:10,793] {logging_mixin.py:115} INFO - [2022-12-12 23:56:10,793] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:56:10,837] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:56:10,925] {logging_mixin.py:115} INFO - [2022-12-12 23:56:10,924] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-12 23:56:10,993] {logging_mixin.py:115} INFO - [2022-12-12 23:56:10,993] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-12 23:56:11,021] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.255 seconds
+[2022-12-12 23:56:45,525] {processor.py:153} INFO - Started process (PID=14209) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:56:45,560] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-12 23:56:45,561] {logging_mixin.py:115} INFO - [2022-12-12 23:56:45,561] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:56:45,608] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:56:45,710] {logging_mixin.py:115} INFO - [2022-12-12 23:56:45,710] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-12 23:56:45,849] {logging_mixin.py:115} INFO - [2022-12-12 23:56:45,849] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-12 23:56:45,915] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.401 seconds
+[2022-12-12 23:57:28,497] {processor.py:153} INFO - Started process (PID=14324) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:57:28,505] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-12 23:57:28,508] {logging_mixin.py:115} INFO - [2022-12-12 23:57:28,507] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:57:28,562] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:57:28,681] {logging_mixin.py:115} INFO - [2022-12-12 23:57:28,681] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-12 23:57:28,954] {logging_mixin.py:115} INFO - [2022-12-12 23:57:28,953] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-12 23:57:29,082] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.601 seconds
+[2022-12-12 23:58:13,461] {processor.py:153} INFO - Started process (PID=14452) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:58:13,464] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-12 23:58:13,465] {logging_mixin.py:115} INFO - [2022-12-12 23:58:13,465] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:58:13,491] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:58:13,561] {logging_mixin.py:115} INFO - [2022-12-12 23:58:13,561] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-12 23:58:13,626] {logging_mixin.py:115} INFO - [2022-12-12 23:58:13,626] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-12 23:58:13,655] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.211 seconds
+[2022-12-12 23:58:59,737] {processor.py:153} INFO - Started process (PID=14608) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:58:59,741] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-12 23:58:59,742] {logging_mixin.py:115} INFO - [2022-12-12 23:58:59,742] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:58:59,782] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:58:59,914] {logging_mixin.py:115} INFO - [2022-12-12 23:58:59,913] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-12 23:59:00,103] {logging_mixin.py:115} INFO - [2022-12-12 23:59:00,102] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-12 23:59:00,206] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.485 seconds
+[2022-12-12 23:59:32,383] {processor.py:153} INFO - Started process (PID=14700) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:59:32,400] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-12 23:59:32,402] {logging_mixin.py:115} INFO - [2022-12-12 23:59:32,401] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:59:32,501] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-12 23:59:32,711] {logging_mixin.py:115} INFO - [2022-12-12 23:59:32,711] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-12 23:59:32,825] {logging_mixin.py:115} INFO - [2022-12-12 23:59:32,823] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-12 23:59:32,967] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.627 seconds
+[2022-12-13 00:00:05,358] {processor.py:153} INFO - Started process (PID=14812) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:00:05,362] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:00:05,363] {logging_mixin.py:115} INFO - [2022-12-13 00:00:05,363] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:00:05,400] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:00:05,448] {logging_mixin.py:115} INFO - [2022-12-13 00:00:05,448] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:00:05,521] {logging_mixin.py:115} INFO - [2022-12-13 00:00:05,521] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:00:05,621] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.275 seconds
+[2022-12-13 00:00:59,137] {processor.py:153} INFO - Started process (PID=14981) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:00:59,264] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:00:59,265] {logging_mixin.py:115} INFO - [2022-12-13 00:00:59,265] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:00:59,291] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:00:59,403] {logging_mixin.py:115} INFO - [2022-12-13 00:00:59,403] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:00:59,498] {logging_mixin.py:115} INFO - [2022-12-13 00:00:59,497] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:00:59,640] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.511 seconds
+[2022-12-13 00:01:42,530] {processor.py:153} INFO - Started process (PID=15107) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:01:42,535] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:01:42,537] {logging_mixin.py:115} INFO - [2022-12-13 00:01:42,536] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:01:42,578] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:01:42,774] {logging_mixin.py:115} INFO - [2022-12-13 00:01:42,774] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:01:42,901] {logging_mixin.py:115} INFO - [2022-12-13 00:01:42,900] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:01:42,944] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.435 seconds
+[2022-12-13 00:02:30,936] {processor.py:153} INFO - Started process (PID=15231) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:02:30,937] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:02:30,939] {logging_mixin.py:115} INFO - [2022-12-13 00:02:30,938] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:02:31,026] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:02:31,098] {logging_mixin.py:115} INFO - [2022-12-13 00:02:31,098] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:02:31,241] {logging_mixin.py:115} INFO - [2022-12-13 00:02:31,240] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:02:31,297] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.421 seconds
+[2022-12-13 00:03:19,215] {processor.py:153} INFO - Started process (PID=15358) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:03:19,224] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:03:19,228] {logging_mixin.py:115} INFO - [2022-12-13 00:03:19,228] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:03:19,290] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:03:19,460] {logging_mixin.py:115} INFO - [2022-12-13 00:03:19,460] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:03:19,572] {logging_mixin.py:115} INFO - [2022-12-13 00:03:19,572] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:03:19,633] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.450 seconds
+[2022-12-13 00:04:02,865] {processor.py:153} INFO - Started process (PID=15486) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:04:02,866] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:04:02,868] {logging_mixin.py:115} INFO - [2022-12-13 00:04:02,868] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:04:02,889] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:04:02,947] {logging_mixin.py:115} INFO - [2022-12-13 00:04:02,947] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:04:03,008] {logging_mixin.py:115} INFO - [2022-12-13 00:04:03,008] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:04:03,083] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.224 seconds
+[2022-12-13 00:04:41,057] {processor.py:153} INFO - Started process (PID=15594) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:04:41,063] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:04:41,064] {logging_mixin.py:115} INFO - [2022-12-13 00:04:41,064] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:04:41,208] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:04:41,404] {logging_mixin.py:115} INFO - [2022-12-13 00:04:41,404] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:04:41,534] {logging_mixin.py:115} INFO - [2022-12-13 00:04:41,533] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:04:41,598] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.594 seconds
+[2022-12-13 00:05:36,719] {processor.py:153} INFO - Started process (PID=15729) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:05:36,724] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:05:36,726] {logging_mixin.py:115} INFO - [2022-12-13 00:05:36,725] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:05:36,746] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:05:36,807] {logging_mixin.py:115} INFO - [2022-12-13 00:05:36,807] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:05:36,889] {logging_mixin.py:115} INFO - [2022-12-13 00:05:36,889] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:05:36,956] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.244 seconds
+[2022-12-13 00:06:37,706] {processor.py:153} INFO - Started process (PID=15866) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:06:37,714] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:06:37,715] {logging_mixin.py:115} INFO - [2022-12-13 00:06:37,715] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:06:37,780] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:06:37,896] {logging_mixin.py:115} INFO - [2022-12-13 00:06:37,896] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:06:38,052] {logging_mixin.py:115} INFO - [2022-12-13 00:06:38,052] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:06:38,195] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.525 seconds
+[2022-12-13 00:08:00,465] {processor.py:153} INFO - Started process (PID=16008) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:08:00,502] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:08:00,503] {logging_mixin.py:115} INFO - [2022-12-13 00:08:00,503] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:08:00,539] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:08:00,616] {logging_mixin.py:115} INFO - [2022-12-13 00:08:00,616] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:08:00,723] {logging_mixin.py:115} INFO - [2022-12-13 00:08:00,722] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:08:00,787] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.349 seconds
+[2022-12-13 00:09:16,245] {processor.py:153} INFO - Started process (PID=16189) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:09:16,253] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:09:16,254] {logging_mixin.py:115} INFO - [2022-12-13 00:09:16,254] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:09:16,280] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:09:16,317] {logging_mixin.py:115} INFO - [2022-12-13 00:09:16,317] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:09:16,399] {logging_mixin.py:115} INFO - [2022-12-13 00:09:16,399] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:09:16,475] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.235 seconds
+[2022-12-13 00:09:53,710] {processor.py:153} INFO - Started process (PID=16316) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:09:53,714] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:09:53,716] {logging_mixin.py:115} INFO - [2022-12-13 00:09:53,716] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:09:53,733] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:09:53,820] {logging_mixin.py:115} INFO - [2022-12-13 00:09:53,820] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:09:53,933] {logging_mixin.py:115} INFO - [2022-12-13 00:09:53,933] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:09:53,987] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.283 seconds
+[2022-12-13 00:10:29,222] {processor.py:153} INFO - Started process (PID=16421) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:10:29,239] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:10:29,249] {logging_mixin.py:115} INFO - [2022-12-13 00:10:29,248] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:10:29,377] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:10:29,571] {logging_mixin.py:115} INFO - [2022-12-13 00:10:29,570] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:10:29,740] {logging_mixin.py:115} INFO - [2022-12-13 00:10:29,731] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:10:29,787] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.582 seconds
+[2022-12-13 00:11:34,954] {processor.py:153} INFO - Started process (PID=16797) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:11:34,966] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:11:34,968] {logging_mixin.py:115} INFO - [2022-12-13 00:11:34,968] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:11:35,071] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:11:35,142] {logging_mixin.py:115} INFO - [2022-12-13 00:11:35,142] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:11:35,279] {logging_mixin.py:115} INFO - [2022-12-13 00:11:35,278] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:11:35,334] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.390 seconds
+[2022-12-13 00:12:09,773] {processor.py:153} INFO - Started process (PID=16891) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:12:09,785] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:12:09,786] {logging_mixin.py:115} INFO - [2022-12-13 00:12:09,786] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:12:09,843] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:12:09,953] {logging_mixin.py:115} INFO - [2022-12-13 00:12:09,953] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:12:10,148] {logging_mixin.py:115} INFO - [2022-12-13 00:12:10,127] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:12:10,261] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.506 seconds
+[2022-12-13 00:12:44,659] {processor.py:153} INFO - Started process (PID=16963) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:12:44,668] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:12:44,669] {logging_mixin.py:115} INFO - [2022-12-13 00:12:44,669] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:12:44,769] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:12:44,887] {logging_mixin.py:115} INFO - [2022-12-13 00:12:44,887] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:12:45,032] {logging_mixin.py:115} INFO - [2022-12-13 00:12:45,024] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:12:45,109] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.488 seconds
+[2022-12-13 00:13:16,895] {processor.py:153} INFO - Started process (PID=17051) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:13:16,910] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:13:16,920] {logging_mixin.py:115} INFO - [2022-12-13 00:13:16,911] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:13:17,005] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:13:17,170] {logging_mixin.py:115} INFO - [2022-12-13 00:13:17,170] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:13:17,621] {logging_mixin.py:115} INFO - [2022-12-13 00:13:17,621] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:13:17,795] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.925 seconds
+[2022-12-13 00:14:45,383] {processor.py:153} INFO - Started process (PID=17323) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:14:45,405] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:14:45,408] {logging_mixin.py:115} INFO - [2022-12-13 00:14:45,408] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:14:45,491] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:14:45,677] {logging_mixin.py:115} INFO - [2022-12-13 00:14:45,677] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:14:46,146] {logging_mixin.py:115} INFO - [2022-12-13 00:14:46,143] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:14:46,340] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.969 seconds
+[2022-12-13 00:16:19,723] {processor.py:153} INFO - Started process (PID=17588) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:16:19,731] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:16:19,732] {logging_mixin.py:115} INFO - [2022-12-13 00:16:19,732] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:16:19,765] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:16:19,829] {logging_mixin.py:115} INFO - [2022-12-13 00:16:19,829] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:16:19,880] {logging_mixin.py:115} INFO - [2022-12-13 00:16:19,880] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:16:19,908] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.191 seconds
+[2022-12-13 00:16:57,737] {processor.py:153} INFO - Started process (PID=17719) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:16:57,741] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:16:57,743] {logging_mixin.py:115} INFO - [2022-12-13 00:16:57,742] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:16:57,760] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:16:57,795] {logging_mixin.py:115} INFO - [2022-12-13 00:16:57,795] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:16:57,872] {logging_mixin.py:115} INFO - [2022-12-13 00:16:57,871] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:16:57,915] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.194 seconds
+[2022-12-13 00:17:29,583] {processor.py:153} INFO - Started process (PID=17828) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:17:29,588] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:17:29,589] {logging_mixin.py:115} INFO - [2022-12-13 00:17:29,589] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:17:29,605] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:17:29,641] {logging_mixin.py:115} INFO - [2022-12-13 00:17:29,641] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:17:29,727] {logging_mixin.py:115} INFO - [2022-12-13 00:17:29,727] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:17:29,790] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.217 seconds
+[2022-12-13 00:18:01,938] {processor.py:153} INFO - Started process (PID=17945) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:18:01,953] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:18:01,955] {logging_mixin.py:115} INFO - [2022-12-13 00:18:01,954] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:18:02,006] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:18:02,093] {logging_mixin.py:115} INFO - [2022-12-13 00:18:02,093] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:18:02,183] {logging_mixin.py:115} INFO - [2022-12-13 00:18:02,182] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:18:02,221] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.291 seconds
+[2022-12-13 00:18:35,630] {processor.py:153} INFO - Started process (PID=18061) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:18:35,635] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:18:35,636] {logging_mixin.py:115} INFO - [2022-12-13 00:18:35,636] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:18:35,652] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:18:35,691] {logging_mixin.py:115} INFO - [2022-12-13 00:18:35,691] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:18:35,799] {logging_mixin.py:115} INFO - [2022-12-13 00:18:35,799] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:18:35,831] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.207 seconds
+[2022-12-13 00:19:08,564] {processor.py:153} INFO - Started process (PID=18171) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:19:08,569] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:19:08,570] {logging_mixin.py:115} INFO - [2022-12-13 00:19:08,570] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:19:08,587] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:19:08,622] {logging_mixin.py:115} INFO - [2022-12-13 00:19:08,622] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:19:08,672] {logging_mixin.py:115} INFO - [2022-12-13 00:19:08,672] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:19:08,700] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.149 seconds
+[2022-12-13 00:19:52,754] {processor.py:153} INFO - Started process (PID=18326) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:19:52,761] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:19:52,763] {logging_mixin.py:115} INFO - [2022-12-13 00:19:52,763] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:19:52,804] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:19:52,851] {logging_mixin.py:115} INFO - [2022-12-13 00:19:52,851] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:19:53,000] {logging_mixin.py:115} INFO - [2022-12-13 00:19:53,000] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:19:53,072] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.338 seconds
+[2022-12-13 00:20:29,594] {processor.py:153} INFO - Started process (PID=18428) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:20:29,608] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:20:29,609] {logging_mixin.py:115} INFO - [2022-12-13 00:20:29,609] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:20:29,641] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:20:29,733] {logging_mixin.py:115} INFO - [2022-12-13 00:20:29,733] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:20:29,905] {logging_mixin.py:115} INFO - [2022-12-13 00:20:29,905] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:20:29,950] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.362 seconds
+[2022-12-13 00:21:12,083] {processor.py:153} INFO - Started process (PID=18572) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:21:12,102] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:21:12,104] {logging_mixin.py:115} INFO - [2022-12-13 00:21:12,104] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:21:12,140] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:21:12,265] {logging_mixin.py:115} INFO - [2022-12-13 00:21:12,264] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:21:12,318] {logging_mixin.py:115} INFO - [2022-12-13 00:21:12,318] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:21:12,353] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.276 seconds
+[2022-12-13 00:21:44,339] {processor.py:153} INFO - Started process (PID=18690) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:21:44,344] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:21:44,345] {logging_mixin.py:115} INFO - [2022-12-13 00:21:44,345] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:21:44,369] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:21:44,404] {logging_mixin.py:115} INFO - [2022-12-13 00:21:44,404] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:21:44,487] {logging_mixin.py:115} INFO - [2022-12-13 00:21:44,487] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:21:44,532] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.199 seconds
+[2022-12-13 00:22:27,604] {processor.py:153} INFO - Started process (PID=18838) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:22:27,612] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:22:27,613] {logging_mixin.py:115} INFO - [2022-12-13 00:22:27,613] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:22:27,640] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:22:27,675] {logging_mixin.py:115} INFO - [2022-12-13 00:22:27,675] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:22:27,739] {logging_mixin.py:115} INFO - [2022-12-13 00:22:27,738] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:22:27,782] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.192 seconds
+[2022-12-13 00:23:12,184] {processor.py:153} INFO - Started process (PID=18996) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:23:12,188] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:23:12,189] {logging_mixin.py:115} INFO - [2022-12-13 00:23:12,189] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:23:12,205] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:23:12,246] {logging_mixin.py:115} INFO - [2022-12-13 00:23:12,246] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:23:12,325] {logging_mixin.py:115} INFO - [2022-12-13 00:23:12,325] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:23:12,370] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.201 seconds
+[2022-12-13 00:23:56,138] {processor.py:153} INFO - Started process (PID=19149) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:23:56,154] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:23:56,155] {logging_mixin.py:115} INFO - [2022-12-13 00:23:56,154] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:23:56,171] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:23:56,209] {logging_mixin.py:115} INFO - [2022-12-13 00:23:56,209] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:23:56,278] {logging_mixin.py:115} INFO - [2022-12-13 00:23:56,278] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:23:56,330] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.198 seconds
+[2022-12-13 00:24:29,090] {processor.py:153} INFO - Started process (PID=19261) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:24:29,100] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:24:29,102] {logging_mixin.py:115} INFO - [2022-12-13 00:24:29,101] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:24:29,123] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:24:29,196] {logging_mixin.py:115} INFO - [2022-12-13 00:24:29,196] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:24:29,298] {logging_mixin.py:115} INFO - [2022-12-13 00:24:29,298] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:24:29,348] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.264 seconds
+[2022-12-13 00:25:12,789] {processor.py:153} INFO - Started process (PID=19414) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:25:12,793] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:25:12,794] {logging_mixin.py:115} INFO - [2022-12-13 00:25:12,794] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:25:12,811] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:25:12,846] {logging_mixin.py:115} INFO - [2022-12-13 00:25:12,845] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:25:12,942] {logging_mixin.py:115} INFO - [2022-12-13 00:25:12,941] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:25:12,981] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.198 seconds
+[2022-12-13 00:25:56,619] {processor.py:153} INFO - Started process (PID=19566) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:25:56,624] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:25:56,625] {logging_mixin.py:115} INFO - [2022-12-13 00:25:56,625] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:25:56,641] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:25:56,712] {logging_mixin.py:115} INFO - [2022-12-13 00:25:56,712] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:25:56,762] {logging_mixin.py:115} INFO - [2022-12-13 00:25:56,762] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:25:56,814] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.201 seconds
+[2022-12-13 00:26:36,004] {processor.py:153} INFO - Started process (PID=19708) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:26:36,012] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:26:36,013] {logging_mixin.py:115} INFO - [2022-12-13 00:26:36,013] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:26:36,048] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:26:36,089] {logging_mixin.py:115} INFO - [2022-12-13 00:26:36,089] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:26:36,135] {logging_mixin.py:115} INFO - [2022-12-13 00:26:36,135] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:26:36,162] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.172 seconds
+[2022-12-13 00:27:18,279] {processor.py:153} INFO - Started process (PID=19856) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:27:18,285] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:27:18,286] {logging_mixin.py:115} INFO - [2022-12-13 00:27:18,286] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:27:18,307] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:27:18,367] {logging_mixin.py:115} INFO - [2022-12-13 00:27:18,367] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:27:18,675] {logging_mixin.py:115} INFO - [2022-12-13 00:27:18,674] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:27:18,731] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.458 seconds
+[2022-12-13 00:27:54,139] {processor.py:153} INFO - Started process (PID=19970) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:27:54,152] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:27:54,153] {logging_mixin.py:115} INFO - [2022-12-13 00:27:54,153] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:27:54,185] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:27:54,219] {logging_mixin.py:115} INFO - [2022-12-13 00:27:54,219] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:27:54,289] {logging_mixin.py:115} INFO - [2022-12-13 00:27:54,289] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:27:54,341] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.208 seconds
+[2022-12-13 00:28:24,907] {processor.py:153} INFO - Started process (PID=20081) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:28:24,912] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:28:24,913] {logging_mixin.py:115} INFO - [2022-12-13 00:28:24,913] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:28:24,930] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:28:24,967] {logging_mixin.py:115} INFO - [2022-12-13 00:28:24,966] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:28:25,058] {logging_mixin.py:115} INFO - [2022-12-13 00:28:25,057] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:28:25,101] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.208 seconds
+[2022-12-13 00:29:08,653] {processor.py:153} INFO - Started process (PID=20239) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:29:08,660] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:29:08,661] {logging_mixin.py:115} INFO - [2022-12-13 00:29:08,661] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:29:08,678] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:29:08,724] {logging_mixin.py:115} INFO - [2022-12-13 00:29:08,724] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:29:08,811] {logging_mixin.py:115} INFO - [2022-12-13 00:29:08,810] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:29:08,844] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.196 seconds
+[2022-12-13 00:29:39,586] {processor.py:153} INFO - Started process (PID=20347) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:29:39,591] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:29:39,592] {logging_mixin.py:115} INFO - [2022-12-13 00:29:39,592] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:29:39,627] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:29:39,706] {logging_mixin.py:115} INFO - [2022-12-13 00:29:39,706] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:29:39,772] {logging_mixin.py:115} INFO - [2022-12-13 00:29:39,772] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:29:39,805] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.229 seconds
+[2022-12-13 00:30:21,641] {processor.py:153} INFO - Started process (PID=20504) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:30:21,645] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:30:21,646] {logging_mixin.py:115} INFO - [2022-12-13 00:30:21,646] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:30:21,662] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:30:21,702] {logging_mixin.py:115} INFO - [2022-12-13 00:30:21,702] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:30:21,792] {logging_mixin.py:115} INFO - [2022-12-13 00:30:21,792] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:30:21,827] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.192 seconds
+[2022-12-13 00:30:59,206] {processor.py:153} INFO - Started process (PID=20636) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:30:59,239] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:30:59,240] {logging_mixin.py:115} INFO - [2022-12-13 00:30:59,240] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:30:59,255] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:30:59,332] {logging_mixin.py:115} INFO - [2022-12-13 00:30:59,332] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:30:59,384] {logging_mixin.py:115} INFO - [2022-12-13 00:30:59,384] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:30:59,414] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.214 seconds
+[2022-12-13 00:31:44,051] {processor.py:153} INFO - Started process (PID=20787) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:31:44,056] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:31:44,057] {logging_mixin.py:115} INFO - [2022-12-13 00:31:44,057] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:31:44,085] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:31:44,149] {logging_mixin.py:115} INFO - [2022-12-13 00:31:44,149] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:31:44,201] {logging_mixin.py:115} INFO - [2022-12-13 00:31:44,200] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:31:44,272] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.227 seconds
+[2022-12-13 00:32:23,153] {processor.py:153} INFO - Started process (PID=20939) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:32:23,154] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:32:23,156] {logging_mixin.py:115} INFO - [2022-12-13 00:32:23,155] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:32:23,171] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:32:23,211] {logging_mixin.py:115} INFO - [2022-12-13 00:32:23,211] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:32:23,253] {logging_mixin.py:115} INFO - [2022-12-13 00:32:23,252] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:32:23,307] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.160 seconds
+[2022-12-13 00:32:53,437] {processor.py:153} INFO - Started process (PID=21040) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:32:53,438] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:32:53,439] {logging_mixin.py:115} INFO - [2022-12-13 00:32:53,439] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:32:53,469] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:32:53,511] {logging_mixin.py:115} INFO - [2022-12-13 00:32:53,511] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:32:53,610] {logging_mixin.py:115} INFO - [2022-12-13 00:32:53,610] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:32:53,636] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.210 seconds
+[2022-12-13 00:33:36,400] {processor.py:153} INFO - Started process (PID=21191) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:33:36,404] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:33:36,405] {logging_mixin.py:115} INFO - [2022-12-13 00:33:36,405] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:33:36,428] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:33:36,470] {logging_mixin.py:115} INFO - [2022-12-13 00:33:36,469] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:33:36,520] {logging_mixin.py:115} INFO - [2022-12-13 00:33:36,520] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:33:36,555] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.164 seconds
+[2022-12-13 00:34:19,601] {processor.py:153} INFO - Started process (PID=21343) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:34:19,605] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:34:19,606] {logging_mixin.py:115} INFO - [2022-12-13 00:34:19,606] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:34:19,621] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:34:19,669] {logging_mixin.py:115} INFO - [2022-12-13 00:34:19,669] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:34:19,726] {logging_mixin.py:115} INFO - [2022-12-13 00:34:19,726] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:34:19,750] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.155 seconds
+[2022-12-13 00:35:06,039] {processor.py:153} INFO - Started process (PID=21501) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:35:06,045] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:35:06,046] {logging_mixin.py:115} INFO - [2022-12-13 00:35:06,046] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:35:06,065] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:35:06,104] {logging_mixin.py:115} INFO - [2022-12-13 00:35:06,104] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:35:06,167] {logging_mixin.py:115} INFO - [2022-12-13 00:35:06,167] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:35:06,216] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.183 seconds
+[2022-12-13 00:35:39,744] {processor.py:153} INFO - Started process (PID=21627) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:35:39,750] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:35:39,752] {logging_mixin.py:115} INFO - [2022-12-13 00:35:39,751] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:35:39,774] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:35:39,835] {logging_mixin.py:115} INFO - [2022-12-13 00:35:39,834] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:35:39,895] {logging_mixin.py:115} INFO - [2022-12-13 00:35:39,895] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:35:39,919] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.181 seconds
+[2022-12-13 00:36:23,225] {processor.py:153} INFO - Started process (PID=21779) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:36:23,236] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:36:23,238] {logging_mixin.py:115} INFO - [2022-12-13 00:36:23,238] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:36:23,274] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:36:23,346] {logging_mixin.py:115} INFO - [2022-12-13 00:36:23,346] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:36:23,416] {logging_mixin.py:115} INFO - [2022-12-13 00:36:23,416] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:36:23,461] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.242 seconds
+[2022-12-13 00:37:04,551] {processor.py:153} INFO - Started process (PID=21926) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:37:04,556] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:37:04,558] {logging_mixin.py:115} INFO - [2022-12-13 00:37:04,557] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:37:04,594] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:37:04,643] {logging_mixin.py:115} INFO - [2022-12-13 00:37:04,643] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:37:04,706] {logging_mixin.py:115} INFO - [2022-12-13 00:37:04,705] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:37:04,759] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.214 seconds
+[2022-12-13 00:37:45,304] {processor.py:153} INFO - Started process (PID=22067) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:37:45,309] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:37:45,310] {logging_mixin.py:115} INFO - [2022-12-13 00:37:45,310] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:37:45,327] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:37:45,366] {logging_mixin.py:115} INFO - [2022-12-13 00:37:45,366] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:37:45,476] {logging_mixin.py:115} INFO - [2022-12-13 00:37:45,476] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:37:45,508] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.209 seconds
+[2022-12-13 00:38:24,332] {processor.py:153} INFO - Started process (PID=22206) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:38:24,337] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:38:24,338] {logging_mixin.py:115} INFO - [2022-12-13 00:38:24,338] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:38:24,364] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:38:24,406] {logging_mixin.py:115} INFO - [2022-12-13 00:38:24,406] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:38:24,511] {logging_mixin.py:115} INFO - [2022-12-13 00:38:24,511] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:38:24,601] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.282 seconds
+[2022-12-13 00:39:05,755] {processor.py:153} INFO - Started process (PID=22359) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:39:05,767] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:39:05,768] {logging_mixin.py:115} INFO - [2022-12-13 00:39:05,768] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:39:05,793] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:39:05,874] {logging_mixin.py:115} INFO - [2022-12-13 00:39:05,874] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:39:05,940] {logging_mixin.py:115} INFO - [2022-12-13 00:39:05,939] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:39:05,987] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.237 seconds
+[2022-12-13 00:39:51,356] {processor.py:153} INFO - Started process (PID=22520) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:39:51,360] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:39:51,362] {logging_mixin.py:115} INFO - [2022-12-13 00:39:51,362] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:39:51,411] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:39:51,469] {logging_mixin.py:115} INFO - [2022-12-13 00:39:51,469] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:39:51,534] {logging_mixin.py:115} INFO - [2022-12-13 00:39:51,534] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:39:51,573] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.248 seconds
+[2022-12-13 00:40:31,867] {processor.py:153} INFO - Started process (PID=22661) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:40:31,870] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:40:31,871] {logging_mixin.py:115} INFO - [2022-12-13 00:40:31,871] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:40:31,887] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:40:31,926] {logging_mixin.py:115} INFO - [2022-12-13 00:40:31,926] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:40:31,970] {logging_mixin.py:115} INFO - [2022-12-13 00:40:31,969] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:40:32,001] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.142 seconds
+[2022-12-13 00:41:11,629] {processor.py:153} INFO - Started process (PID=22804) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:41:11,637] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:41:11,648] {logging_mixin.py:115} INFO - [2022-12-13 00:41:11,648] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:41:11,665] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:41:11,795] {logging_mixin.py:115} INFO - [2022-12-13 00:41:11,795] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:41:11,908] {logging_mixin.py:115} INFO - [2022-12-13 00:41:11,908] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:41:11,984] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.365 seconds
+[2022-12-13 00:41:56,679] {processor.py:153} INFO - Started process (PID=22954) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:41:56,685] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:41:56,686] {logging_mixin.py:115} INFO - [2022-12-13 00:41:56,686] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:41:56,723] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:41:56,802] {logging_mixin.py:115} INFO - [2022-12-13 00:41:56,802] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:41:56,845] {logging_mixin.py:115} INFO - [2022-12-13 00:41:56,845] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:41:56,938] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.266 seconds
+[2022-12-13 00:42:39,914] {processor.py:153} INFO - Started process (PID=23106) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:42:39,917] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:42:39,918] {logging_mixin.py:115} INFO - [2022-12-13 00:42:39,918] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:42:39,937] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:42:39,993] {logging_mixin.py:115} INFO - [2022-12-13 00:42:39,993] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:42:40,058] {logging_mixin.py:115} INFO - [2022-12-13 00:42:40,057] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:42:40,088] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.180 seconds
+[2022-12-13 00:43:24,816] {processor.py:153} INFO - Started process (PID=23251) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:43:24,818] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:43:24,818] {logging_mixin.py:115} INFO - [2022-12-13 00:43:24,818] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:43:24,854] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:43:24,929] {logging_mixin.py:115} INFO - [2022-12-13 00:43:24,928] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:43:25,035] {logging_mixin.py:115} INFO - [2022-12-13 00:43:25,035] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:43:25,083] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.284 seconds
+[2022-12-13 00:43:56,678] {processor.py:153} INFO - Started process (PID=23363) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:43:56,681] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:43:56,682] {logging_mixin.py:115} INFO - [2022-12-13 00:43:56,682] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:43:56,702] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:43:56,756] {logging_mixin.py:115} INFO - [2022-12-13 00:43:56,755] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:43:56,805] {logging_mixin.py:115} INFO - [2022-12-13 00:43:56,805] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:43:56,852] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.180 seconds
+[2022-12-13 00:44:34,308] {processor.py:153} INFO - Started process (PID=23499) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:44:34,309] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:44:34,310] {logging_mixin.py:115} INFO - [2022-12-13 00:44:34,310] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:44:34,334] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:44:34,447] {logging_mixin.py:115} INFO - [2022-12-13 00:44:34,447] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:44:34,525] {logging_mixin.py:115} INFO - [2022-12-13 00:44:34,525] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:44:34,574] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.281 seconds
+[2022-12-13 00:45:19,694] {processor.py:153} INFO - Started process (PID=23654) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:45:19,699] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:45:19,700] {logging_mixin.py:115} INFO - [2022-12-13 00:45:19,699] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:45:19,750] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:45:19,798] {logging_mixin.py:115} INFO - [2022-12-13 00:45:19,798] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:45:19,877] {logging_mixin.py:115} INFO - [2022-12-13 00:45:19,877] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:45:19,926] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.253 seconds
+[2022-12-13 00:46:06,207] {processor.py:153} INFO - Started process (PID=23810) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:46:06,222] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:46:06,224] {logging_mixin.py:115} INFO - [2022-12-13 00:46:06,224] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:46:06,401] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:46:06,593] {logging_mixin.py:115} INFO - [2022-12-13 00:46:06,592] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:46:06,735] {logging_mixin.py:115} INFO - [2022-12-13 00:46:06,735] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:46:07,274] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 1.100 seconds
+[2022-12-13 00:47:27,021] {processor.py:153} INFO - Started process (PID=24023) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:47:27,029] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:47:27,030] {logging_mixin.py:115} INFO - [2022-12-13 00:47:27,030] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:47:27,099] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:47:27,192] {logging_mixin.py:115} INFO - [2022-12-13 00:47:27,183] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:47:27,403] {logging_mixin.py:115} INFO - [2022-12-13 00:47:27,403] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:47:27,566] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.567 seconds
+[2022-12-13 00:48:04,081] {processor.py:153} INFO - Started process (PID=24116) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:48:04,083] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:48:04,084] {logging_mixin.py:115} INFO - [2022-12-13 00:48:04,084] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:48:04,133] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:48:04,203] {logging_mixin.py:115} INFO - [2022-12-13 00:48:04,202] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:48:04,318] {logging_mixin.py:115} INFO - [2022-12-13 00:48:04,318] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:48:04,378] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.313 seconds
+[2022-12-13 00:48:41,662] {processor.py:153} INFO - Started process (PID=24233) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:48:41,667] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:48:41,668] {logging_mixin.py:115} INFO - [2022-12-13 00:48:41,668] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:48:41,718] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:48:41,786] {logging_mixin.py:115} INFO - [2022-12-13 00:48:41,786] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:48:41,846] {logging_mixin.py:115} INFO - [2022-12-13 00:48:41,846] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:48:41,881] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.225 seconds
+[2022-12-13 00:49:26,361] {processor.py:153} INFO - Started process (PID=24383) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:49:26,365] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 00:49:26,366] {logging_mixin.py:115} INFO - [2022-12-13 00:49:26,366] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:49:26,390] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 00:49:26,423] {logging_mixin.py:115} INFO - [2022-12-13 00:49:26,422] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 00:49:26,500] {logging_mixin.py:115} INFO - [2022-12-13 00:49:26,500] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 00:49:26,528] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.174 seconds
+[2022-12-13 19:41:46,234] {processor.py:153} INFO - Started process (PID=25024) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:41:46,243] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 19:41:46,245] {logging_mixin.py:115} INFO - [2022-12-13 19:41:46,245] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:41:46,340] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:41:46,607] {logging_mixin.py:115} INFO - [2022-12-13 19:41:46,606] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 19:41:46,783] {logging_mixin.py:115} INFO - [2022-12-13 19:41:46,783] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 19:41:46,889] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.697 seconds
+[2022-12-13 19:42:47,527] {processor.py:153} INFO - Started process (PID=25187) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:42:47,551] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 19:42:47,552] {logging_mixin.py:115} INFO - [2022-12-13 19:42:47,552] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:42:47,591] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:42:47,694] {logging_mixin.py:115} INFO - [2022-12-13 19:42:47,694] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 19:42:47,901] {logging_mixin.py:115} INFO - [2022-12-13 19:42:47,901] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 19:42:48,028] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.537 seconds
+[2022-12-13 19:43:43,662] {processor.py:153} INFO - Started process (PID=25328) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:43:43,667] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 19:43:43,670] {logging_mixin.py:115} INFO - [2022-12-13 19:43:43,669] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:43:43,712] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:43:43,811] {logging_mixin.py:115} INFO - [2022-12-13 19:43:43,811] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 19:43:43,941] {logging_mixin.py:115} INFO - [2022-12-13 19:43:43,941] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 19:43:44,010] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.367 seconds
+[2022-12-13 19:44:42,810] {processor.py:153} INFO - Started process (PID=25478) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:44:42,815] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 19:44:42,819] {logging_mixin.py:115} INFO - [2022-12-13 19:44:42,819] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:44:42,869] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:44:42,975] {logging_mixin.py:115} INFO - [2022-12-13 19:44:42,975] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 19:44:43,132] {logging_mixin.py:115} INFO - [2022-12-13 19:44:43,131] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 19:44:43,299] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.518 seconds
+[2022-12-13 19:45:39,108] {processor.py:153} INFO - Started process (PID=25625) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:45:39,128] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 19:45:39,131] {logging_mixin.py:115} INFO - [2022-12-13 19:45:39,131] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:45:39,206] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:45:39,367] {logging_mixin.py:115} INFO - [2022-12-13 19:45:39,366] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 19:45:39,498] {logging_mixin.py:115} INFO - [2022-12-13 19:45:39,489] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 19:45:39,561] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.478 seconds
+[2022-12-13 19:46:43,374] {processor.py:153} INFO - Started process (PID=25765) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:46:43,438] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 19:46:43,441] {logging_mixin.py:115} INFO - [2022-12-13 19:46:43,440] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:46:43,539] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:46:43,666] {logging_mixin.py:115} INFO - [2022-12-13 19:46:43,666] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 19:46:43,832] {logging_mixin.py:115} INFO - [2022-12-13 19:46:43,832] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 19:46:43,906] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.539 seconds
+[2022-12-13 19:47:14,719] {processor.py:153} INFO - Started process (PID=25850) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:47:14,732] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 19:47:14,734] {logging_mixin.py:115} INFO - [2022-12-13 19:47:14,733] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:47:14,768] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:47:14,872] {logging_mixin.py:115} INFO - [2022-12-13 19:47:14,872] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 19:47:14,987] {logging_mixin.py:115} INFO - [2022-12-13 19:47:14,987] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 19:47:15,041] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.352 seconds
+[2022-12-13 19:48:20,227] {processor.py:153} INFO - Started process (PID=26032) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:48:20,231] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 19:48:20,233] {logging_mixin.py:115} INFO - [2022-12-13 19:48:20,233] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:48:20,365] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:48:20,665] {logging_mixin.py:115} INFO - [2022-12-13 19:48:20,664] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 19:48:21,175] {logging_mixin.py:115} INFO - [2022-12-13 19:48:21,175] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 19:48:21,348] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 1.195 seconds
+[2022-12-13 19:49:00,575] {processor.py:153} INFO - Started process (PID=26151) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:49:00,592] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 19:49:00,594] {logging_mixin.py:115} INFO - [2022-12-13 19:49:00,594] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:49:00,653] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:49:00,771] {logging_mixin.py:115} INFO - [2022-12-13 19:49:00,770] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 19:49:00,947] {logging_mixin.py:115} INFO - [2022-12-13 19:49:00,947] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 19:49:01,025] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.470 seconds
+[2022-12-13 19:49:42,812] {processor.py:153} INFO - Started process (PID=26391) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:49:42,815] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 19:49:42,819] {logging_mixin.py:115} INFO - [2022-12-13 19:49:42,819] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:49:42,895] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:49:43,040] {logging_mixin.py:115} INFO - [2022-12-13 19:49:43,039] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 19:49:43,236] {logging_mixin.py:115} INFO - [2022-12-13 19:49:43,235] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 19:49:43,324] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.533 seconds
+[2022-12-13 19:50:27,119] {processor.py:153} INFO - Started process (PID=26522) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:50:27,130] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 19:50:27,133] {logging_mixin.py:115} INFO - [2022-12-13 19:50:27,132] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:50:27,222] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:50:27,485] {logging_mixin.py:115} INFO - [2022-12-13 19:50:27,484] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 19:50:27,733] {logging_mixin.py:115} INFO - [2022-12-13 19:50:27,732] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 19:50:27,827] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.734 seconds
+[2022-12-13 19:51:10,086] {processor.py:153} INFO - Started process (PID=26614) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:51:10,092] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 19:51:10,100] {logging_mixin.py:115} INFO - [2022-12-13 19:51:10,100] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:51:10,177] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:51:10,357] {logging_mixin.py:115} INFO - [2022-12-13 19:51:10,356] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 19:51:10,585] {logging_mixin.py:115} INFO - [2022-12-13 19:51:10,585] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 19:51:10,701] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.635 seconds
+[2022-12-13 19:51:52,243] {processor.py:153} INFO - Started process (PID=26744) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:51:52,254] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 19:51:52,264] {logging_mixin.py:115} INFO - [2022-12-13 19:51:52,262] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:51:52,425] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:51:52,765] {logging_mixin.py:115} INFO - [2022-12-13 19:51:52,765] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 19:51:52,991] {logging_mixin.py:115} INFO - [2022-12-13 19:51:52,991] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 19:51:53,141] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.937 seconds
+[2022-12-13 19:52:34,891] {processor.py:153} INFO - Started process (PID=26963) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:52:34,901] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 19:52:34,902] {logging_mixin.py:115} INFO - [2022-12-13 19:52:34,902] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:52:35,079] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:52:35,260] {logging_mixin.py:115} INFO - [2022-12-13 19:52:35,260] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 19:52:35,571] {logging_mixin.py:115} INFO - [2022-12-13 19:52:35,571] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 19:52:35,652] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.789 seconds
+[2022-12-13 19:53:19,243] {processor.py:153} INFO - Started process (PID=27102) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:53:19,250] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 19:53:19,253] {logging_mixin.py:115} INFO - [2022-12-13 19:53:19,252] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:53:19,474] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:53:19,644] {logging_mixin.py:115} INFO - [2022-12-13 19:53:19,644] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 19:53:19,983] {logging_mixin.py:115} INFO - [2022-12-13 19:53:19,982] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 19:53:20,212] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 1.024 seconds
+[2022-12-13 19:54:06,751] {processor.py:153} INFO - Started process (PID=27181) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:54:06,760] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 19:54:06,778] {logging_mixin.py:115} INFO - [2022-12-13 19:54:06,777] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:54:06,927] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:54:07,143] {logging_mixin.py:115} INFO - [2022-12-13 19:54:07,143] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 19:54:07,375] {logging_mixin.py:115} INFO - [2022-12-13 19:54:07,374] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 19:54:07,544] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 0.832 seconds
+[2022-12-13 19:54:52,544] {processor.py:153} INFO - Started process (PID=27258) to work on /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:54:52,564] {processor.py:641} INFO - Processing file /home/igor/Documents/airflowalura/dags/primeiro_dag.py for tasks to queue
+[2022-12-13 19:54:52,571] {logging_mixin.py:115} INFO - [2022-12-13 19:54:52,570] {dagbag.py:507} INFO - Filling up the DagBag from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:54:52,721] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /home/igor/Documents/airflowalura/dags/primeiro_dag.py
+[2022-12-13 19:54:53,499] {logging_mixin.py:115} INFO - [2022-12-13 19:54:53,499] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-12-13 19:54:53,800] {logging_mixin.py:115} INFO - [2022-12-13 19:54:53,800] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2022-12-13T00:00:00+00:00, run_after=2022-12-14T00:00:00+00:00
+[2022-12-13 19:54:53,967] {processor.py:161} INFO - Processing /home/igor/Documents/airflowalura/dags/primeiro_dag.py took 1.452 seconds
