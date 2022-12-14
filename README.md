@@ -5,3 +5,8 @@
 * Automatização de pipelines
 * Estudo de usuabilidade do AirFlow
 ***
+* Pipeline study
+* Pipeline data extraction
+* Creating DAGs
+* AirFlow usability
+***
